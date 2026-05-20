@@ -1,0 +1,134 @@
+=== REPORT 1: DEPARTMENT > FILENAME KEY > INTERVAL ===
+                   dept_name         filename_key    interval  count
+                Power-System                  BLS      Weekly     11
+                Power-System    StationInspection   Quarterly    171
+                Power-System    StationInspection      Weekly   1769
+                Power-System    StationInspection      Yearly     30
+                Power-System                 TPSS   Quarterly      2
+                Power-System                 TPSS      Weekly    645
+                Power-System                 TPSS      Yearly     11
+                Power-System            UPSSystem   Quarterly     14
+               Rolling-Stock             Standard Half-Yearly     18
+               Rolling-Stock             Standard     Monthly    216
+               Rolling-Stock             Standard   Quarterly     51
+               Rolling-Stock             Standard      Weekly    994
+               Rolling-Stock             Standard      Yearly     23
+Signalling-And-Communication                 CCTV   Quarterly    180
+Signalling-And-Communication                 CCTV     Unknown    144
+Signalling-And-Communication                  OTN   Quarterly    148
+Signalling-And-Communication                  OTN     Unknown     73
+Signalling-And-Communication                 PABX     Monthly      1
+Signalling-And-Communication                 PABX   Quarterly    130
+Signalling-And-Communication                 PABX     Unknown     48
+Signalling-And-Communication                PAPIS   Quarterly    122
+Signalling-And-Communication                PAPIS     Unknown     36
+Signalling-And-Communication            Projector   Quarterly      3
+Signalling-And-Communication            Projector     Unknown     68
+Signalling-And-Communication                Radio   Quarterly    166
+Signalling-And-Communication           Signalling   Quarterly    212
+Signalling-And-Communication                  UPS   Quarterly    134
+Signalling-And-Communication                  UPS     Unknown     35
+Signalling-And-Communication                 WiFi     Unknown    152
+               Track-Network        AirCompressor      Weekly    386
+               Track-Network     BogieDropPit1Lub     Monthly     45
+               Track-Network    BogieDropPit1Mech     Monthly     41
+               Track-Network     BogieDropPit2Lub     Monthly     44
+               Track-Network    BogieDropPit2Mech     Monthly     44
+               Track-Network         BogieTestJig     Monthly     42
+               Track-Network          CentreLathe     Monthly     44
+               Track-Network  FingerPlateDownBeam     Monthly     82
+               Track-Network    FingerPlateUpBeam     Monthly     96
+               Track-Network       HydraulicPress     Monthly     44
+               Track-Network   LubricationSwitch1     Monthly     45
+               Track-Network   LubricationSwitch2     Monthly     45
+               Track-Network   LubricationSwitch3     Monthly     45
+               Track-Network   LubricationSwitch4     Monthly     44
+               Track-Network   LubricationSwitch5     Monthly     45
+               Track-Network   LubricationSwitch6     Monthly     44
+               Track-Network   LubricationSwitch7     Monthly     45
+               Track-Network   LubricationSwitch8     Monthly     44
+               Track-Network LubricationTraverser     Monthly     45
+               Track-Network    MechanicalSwitch1     Monthly     44
+               Track-Network    MechanicalSwitch2     Monthly     42
+               Track-Network    MechanicalSwitch3     Monthly     32
+               Track-Network    MechanicalSwitch4     Monthly     44
+               Track-Network    MechanicalSwitch5     Monthly     43
+               Track-Network    MechanicalSwitch6     Monthly     44
+               Track-Network    MechanicalSwitch7     Monthly     42
+               Track-Network    MechanicalSwitch8     Monthly     44
+               Track-Network  MechanicalTraverser     Monthly     44
+               Track-Network       OverheadCrane1     Monthly     38
+               Track-Network       OverheadCrane2     Monthly     43
+               Track-Network       OverheadCrane3     Monthly     43
+               Track-Network       OverheadCrane4     Monthly     43
+               Track-Network        PadestalDrill     Monthly     44
+               Track-Network      PadestalGrinder     Monthly     43
+               Track-Network            PowerRail     Monthly    190
+               Track-Network                 TMV1     Monthly     19
+               Track-Network                 TMV2     Monthly     44
+               Track-Network                 TMV3 Half-Yearly      2
+               Track-Network                 TMV3     Monthly      8
+               Track-Network                 TMV3      Yearly      1
+               Track-Network       TrainWashPlant     Monthly     45
+               Track-Network  TyreChangingMachine     Monthly     43
+               Track-Network              Walkway     Monthly    128
+
+============================================================
+
+=== REPORT 2: DEPARTMENT > FILENAME KEY ONLY ===
+                   dept_name         filename_key  count
+                Power-System                  BLS     11
+                Power-System    StationInspection   1970
+                Power-System                 TPSS    658
+                Power-System            UPSSystem     14
+               Rolling-Stock             Standard   1302
+Signalling-And-Communication                 CCTV    324
+Signalling-And-Communication                  OTN    221
+Signalling-And-Communication                 PABX    179
+Signalling-And-Communication                PAPIS    158
+Signalling-And-Communication            Projector     71
+Signalling-And-Communication                Radio    166
+Signalling-And-Communication           Signalling    212
+Signalling-And-Communication                  UPS    169
+Signalling-And-Communication                 WiFi    152
+               Track-Network        AirCompressor    386
+               Track-Network     BogieDropPit1Lub     45
+               Track-Network    BogieDropPit1Mech     41
+               Track-Network     BogieDropPit2Lub     44
+               Track-Network    BogieDropPit2Mech     44
+               Track-Network         BogieTestJig     42
+               Track-Network          CentreLathe     44
+               Track-Network  FingerPlateDownBeam     82
+               Track-Network    FingerPlateUpBeam     96
+               Track-Network       HydraulicPress     44
+               Track-Network   LubricationSwitch1     45
+               Track-Network   LubricationSwitch2     45
+               Track-Network   LubricationSwitch3     45
+               Track-Network   LubricationSwitch4     44
+               Track-Network   LubricationSwitch5     45
+               Track-Network   LubricationSwitch6     44
+               Track-Network   LubricationSwitch7     45
+               Track-Network   LubricationSwitch8     44
+               Track-Network LubricationTraverser     45
+               Track-Network    MechanicalSwitch1     44
+               Track-Network    MechanicalSwitch2     42
+               Track-Network    MechanicalSwitch3     32
+               Track-Network    MechanicalSwitch4     44
+               Track-Network    MechanicalSwitch5     43
+               Track-Network    MechanicalSwitch6     44
+               Track-Network    MechanicalSwitch7     42
+               Track-Network    MechanicalSwitch8     44
+               Track-Network  MechanicalTraverser     44
+               Track-Network       OverheadCrane1     38
+               Track-Network       OverheadCrane2     43
+               Track-Network       OverheadCrane3     43
+               Track-Network       OverheadCrane4     43
+               Track-Network        PadestalDrill     44
+               Track-Network      PadestalGrinder     43
+               Track-Network            PowerRail    190
+               Track-Network                 TMV1     19
+               Track-Network                 TMV2     44
+               Track-Network                 TMV3     11
+               Track-Network       TrainWashPlant     45
+               Track-Network  TyreChangingMachine     43
+               Track-Network              Walkway    128

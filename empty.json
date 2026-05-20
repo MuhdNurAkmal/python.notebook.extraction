@@ -1,0 +1,3640 @@
+{
+  "stamping": {
+    "power_off": {
+      "inspections": {
+        "preparation": {
+          "description": "Safety Precautions",
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "checks": {
+            "ECA1": "",
+            "ICA2": "",
+            "ICA3": "",
+            "ECA4": ""
+          }
+        },
+        "carbody": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "apron_door": [
+            {
+              "a": {
+                "description": "Check for loose bolts and nuts (torque marks location)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check for mechanical lock failure",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the wear and tear of rubber stopper",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the wear and tear of bolts and nuts",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "apron_structure": [
+            {
+              "a": {
+                "description": "Check the apron structure for cracks and flaws",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check fixture to carbody",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Clean the apron structure",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the bolt and locknut after modification from rivets (ETCS Antena Location)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Checked Rivets condition on the frame Structure Connection",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "exterior": [
+            {
+              "a": {
+                "description": "Check for crack and detachment in cab end mask structure.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the exterior for cracks and flaws",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the fixture to carbody (Skirting)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check for the bonding and sealing",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Check side windows and the sealing to car for cracks and flaws. (Replace it if required)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "car_body_structure": [
+            {
+              "a": {
+                "description": "Check the car body structure for cracks, buckling, corrosion and bolts tightness",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "bogie": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "right_angle_gearbox": [
+            {
+              "a": {
+                "description": "Check and replenish the gear oil if below the limit",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Inspect the torque marks.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "air_bag": [
+            {
+              "a": {
+                "description": "Check airbag height against body frame (Std = 241mm ±3mm) (Refer to attach Appendix A)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check pressure at AWO (Refer to attach Appendix A)\nNote: Bogie 1,2,7 and 8 = (4.8bar ≥ 8.0 bar)\nBogie 3,4,5 and 6 (4.5bar ≥ 8.0 bar)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "guide_wheel_tyres": [
+            {
+              "a": {
+                "description": "Check the guide wheel tyre pressure manually (Std = 10 ±0.5 bar) (Refer to attach Appendix B)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Measure the tyre thread depth. (Refer to attach Appendix C)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Inspect wheel for damage or any abnormalities (Looseness, dispositioning, misalignment of hub assembly, dents or damage to Oil Seal Adapter, patchy tyre wear)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the temperature label at the hub. The nominal temperature of the GW hub assembly shouldnot exceed 43 °C. If 43 'C and above the bearing should be replaced.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "load_wheel_tyres": [
+            {
+              "a": {
+                "description": "Check the load wheel tyre pressure manually (Std = 11.5±0.5 bar) (Refer to attach Appendix B)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Measure the tyre thread depth. (Refer to attach Appendix C)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Visually check wheel for damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "fasteners": [
+            {
+              "a": {
+                "description": "Inspect the torque mark (Blue torque mark)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "slider_pad": [
+            {
+              "a": {
+                "description": "Inspect for excessive wear.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "bolster_bushes": [
+            {
+              "a": {
+                "description": "Inspect the gap between bolster bush and bolster hinge structure",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "short_and_long_cardan_shaft": [
+            {
+              "a": {
+                "description": "Inspect the torque marks and condition. (Refer to attach Appendix F)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Regrease the short and long cardan shaft (Refer to attach Appendix H)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "bogie_frame": [
+            {
+              "a": {
+                "description": "(Refer scomi)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "pneumatic_tank_reservoir": [
+            {
+              "a": {
+                "description": "Drain water trapped in the tank reservoir",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "cam_followers": [
+            {
+              "a": {
+                "description": "Re-grease the cam follower bearings",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "bronze_bushes": [
+            {
+              "a": {
+                "description": "Inspect the wear and crack sign",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "interior": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "all_components": [
+            {
+              "a": {
+                "description": "Clean the interior",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the handgrip for wear and tear",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the floor covering for cracks and wear and tear.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the handrails for loose fitting. Tighten if loose",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Check for anti corrosive paints. Repair if needed.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "vehicle_management_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "pac_unit_inspection": [
+            {
+              "a": {
+                "description": "Check for any damage on the module",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check if the connector and cable are in good condition.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the condition of earthing connection.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "propulsion_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "rgb": [
+            {
+              "a": {
+                "description": "Check oil level and replenish the gear oil if below limit",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Inspect for gear oil leakage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check and adjust oil level in transmissions.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the conditon of the breather vent.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Check the torque of the fastener.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "f": {
+                "description": "Inspect for leaks or damage on the transmission.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "traction_inverter": [
+            {
+              "a": {
+                "description": "Check the cubical for damage and abnormalities.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the status of the sealing.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the function of the square key locks.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the windscreen blade.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "line_filter_inductor_compartment": [
+            {
+              "a": {
+                "description": "Clean the line filter inductor",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "switches_compartment": [
+            {
+              "a": {
+                "description": "Check the status of the line switch.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check for loose mounting of components and the connections.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the condensate drain hole",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "inverter_power_module_compartment": [
+            {
+              "a": {
+                "description": "Check for loose mounting of components and the connections.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check for signs of leakage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the condensate drain hole.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "long_cardan_shaft": [
+            {
+              "a": {
+                "description": "Grease the shaft join (Refer to attach Appendix H)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "short_cardan_shaft": [
+            {
+              "a": {
+                "description": "Grease the shaft join (Refer to attach Appendix H)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "pneumatic_brake_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "brake_cylinder": [
+            {
+              "a": {
+                "description": "Ensure Seal and Push Rod area clean and not damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "If brake chamber seal protudes < 3 mm, replaced",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Silencer drainage port is clear",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "micromesh_oil_filter": [
+            {
+              "a": {
+                "description": "Drain off the precipitated oil",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "all_flexible_hose_pipes": [
+            {
+              "a": {
+                "description": "Visually inspect hose pipe for cracks",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Drain off the precipitated oil",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "air_filter": [
+            {
+              "a": {
+                "description": "Clean the strainer element",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            },
+            {
+              "b": {
+                "description": "Clean the windscreen wiper blade",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "air_compressor": [
+            {
+              "a": {
+                "description": "Inpect the resilient mounting",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Exchange the filter element in the dry type filter element",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Clean the coolers and cylinder cooling ribs",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "air_dryer": [
+            {
+              "a": {
+                "description": "Change the filter catridges",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "cooling_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "coolant": [
+            {
+              "a": {
+                "description": "Check cooler for contamination",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check coolant level",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check cooling system for leakage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check suspension",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Check correct setting, clamps and screw connections.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "f": {
+                "description": "Check Coolant Quality",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "radiator": [
+            {
+              "a": {
+                "description": "Clean Radiator",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "expansion_tank": [
+            {
+              "a": {
+                "description": "Check Expansion Tank for damage, ageing and leaks",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the windscreen wiper blade",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "hose": [
+            {
+              "a": {
+                "description": "Check hoses for damage, ageing and leaks. (In the event of leaks, remedy the leaks or exchange the parts if necessary)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "electric_motor": [
+            {
+              "a": {
+                "description": "Drain off condensation water",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "door_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "guiderails": [
+            {
+              "a": {
+                "description": "Clean an inspect condition",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "low_voltage_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "earth_fault_detection_systems": [
+            {
+              "a": {
+                "description": "Check the insulation resistance value",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "tyre_pressure_monitoring_system": [
+            {
+              "a": {
+                "description": "Check the baseline pressure reading of all load wheel is 167psi (11.5bar)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "low_voltage_distribution_system": [
+            {
+              "a": {
+                "description": "Inspect the cable glands for damaged threads, deformed, hardened, or torn joints and loose screw termitions",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check termition at each circuit breaker for burn marks, decolourisation or cracks.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Checks all wire termition are in good condition",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Checks for dust accumulation or dirt particles within enclosure",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "exterior_lighting_and_wiper_washer_system": [
+            {
+              "a": {
+                "description": "Check the windscreen wiper blade",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the wiper level of the water tank",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "primary_power": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "collector_shoe": [
+            {
+              "a": {
+                "description": "Visually check the shoe is in place, wear limit and clean (Wear not < 2mm) (Refer to attach Appendix D)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "water_ponding": [
+            {
+              "a": {
+                "description": "Check WaterPonding at Cabinet. (Refer to attach Appendix E)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "shoes_arm": [
+            {
+              "a": {
+                "description": "Check for any signs of damage to shoesarm",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "shoe_arm_pivot_assembly": [
+            {
+              "a": {
+                "description": "Check for axial movement in the pivot shaft and bearings by moving the shoe arms from side to side at the shoe end. (Remove the Current Collector Assembly and send for repair if excessive movement is observed)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "cable": [
+            {
+              "a": {
+                "description": "Check the cable for no signs of fraying, fretting or overheating.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "lanyard": [
+            {
+              "a": {
+                "description": "Check for damage.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "insulator": [
+            {
+              "a": {
+                "description": "Check for fixings are secured and any signs of damage.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "arcshield": [
+            {
+              "a": {
+                "description": "Check for damage.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Confirm the arc shield is free from heavy conductive deposits",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Clean the arc shields using a stiff brush and mild detergent im warm water",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "collector_adjustment": [
+            {
+              "a": {
+                "description": "Check the collector adjustment",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "power_contactor": [
+            {
+              "a": {
+                "description": "Optical inspection from outside",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Inspect the main components. (Contacts need to be replaced if the wear of contact tips is more than 70%)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Inspect the auxiliary componenets",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "communication": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "all_components": [
+            {
+              "a": {
+                "description": "Clean the component if nesessary.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "auxiliary_power": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "aps_enclosure": [
+            {
+              "a": {
+                "description": "Inspect for any damage or crack on the APS enclosure",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "hvac": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "air_filter": [
+            {
+              "a": {
+                "description": "Check Mixed and Fresh air filter for wear and tear and clean it.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "mixed_air_filter": [
+            {
+              "a": {
+                "description": "Change the mixed air filter",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "coupler_and_drawbar": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "entire_coupler_and_drawbar": [
+            {
+              "a": {
+                "description": "Wipe the coupler and drawbar",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Visually check for damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check the inclination of coupler",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check the supporting spring for cracks",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Repair damage to the paint coating",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "f": {
+                "description": "Visually check the coupler for proper allignment with the longitudil axis of the vehicle",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "g": {
+                "description": "Slew the coupler horizontally and vertically",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "h": {
+                "description": "Check the return-to-centre function of the coupler",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "i": {
+                "description": "Check the hoses for porosity",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "j": {
+                "description": "Check all pneumatics parts for air tightness",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "coupler_head": [
+            {
+              "a": {
+                "description": "Check coupler lock for smooth operation",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Grease coupler lock with grease spray",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check if spring is broken",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Repair the anti corrosive coating of coating fo coupler face, male and females cones",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Measure the coupler lock backlash",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "f": {
+                "description": "Check for any blockage at the drain holes",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "air_pipe_connection": [
+            {
+              "a": {
+                "description": "Clean socket and gasket",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "coupler_shank": [
+            {
+              "a": {
+                "description": "Visually check the buffer for oil or grease leaks",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Grease the visible sliding surfaces of the buffer",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "muff_coupling": [
+            {
+              "a": {
+                "description": "Check whether bores of lower muff are filled with grease",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "rubber_cushion_drawgear_for_coupler_only": [
+            {
+              "a": {
+                "description": "Check fastening screws of jourl for tight seat",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Open the drain holes",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "centring_device_for_couplers_only": [
+            {
+              "a": {
+                "description": "Check fastening screws for tight seat",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Open the drain holes",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "earthing_system": [
+            {
+              "a": {
+                "description": "Check the earth wires for damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check all fasteners for tight seat and intact colour marking",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "bearing_bracket_drawbar": [
+            {
+              "a": {
+                "description": "Grease the bearing bracket",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "driver_console": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "fan_filter": [
+            {
+              "a": {
+                "description": "Check the fan filter",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "fan": [
+            {
+              "a": {
+                "description": "Check the functionality of the fan",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "earthing": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "earthing_shoe": [
+            {
+              "a": {
+                "description": "Visually check the wear has not encroached nearer than 2mm from sheath (Refer to attach Appendix I",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check spring clamping",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "intercar_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "intercar_jumper_cables": [
+            {
+              "a": {
+                "description": "Check that the mountings are secure and in place",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Inspect the intercar Jumper Cables for damages or burns",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Inspect the Connectors for damages or burns",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "gangway": [
+            {
+              "a": {
+                "description": "Check Teflon wear, rubber strip and loosen bolts",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "power_on": {
+      "inspections": {
+        "preparation": {
+          "description": "Safety Precautions",
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "checks": {
+            "ECA1": "",
+            "ICA2": "",
+            "ICA3": "",
+            "ECA4": ""
+          }
+        },
+        "carbody": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "apron_door": [
+            {
+              "a": {
+                "description": "Check for inductive sensor fault",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "bogie": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "levelling_system": [
+            {
+              "a": {
+                "description": "Inspect the correct height and adjust the correct height.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check levelling valve function.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check for air leakage.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "vehicle_management_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "pac_unit_inspection": [
+            {
+              "a": {
+                "description": "Visually check the status on PAC modules.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the indicator light on the module for any alarms.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "pneumatic_brake_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "entire_pneumatic_system": [
+            {
+              "a": {
+                "description": "a. Pressurise the Pneumatic System to 9.5 bar (Ref Appendix G) /n/n b. Start the measurement 5 minutes after the following. /n i)Brakes are applied. /n ii)parking brake is released. /n iii)Suspension equipment filled /n/n c. Stop the measurement after 10 minutes /n/n d. Record the amount of air pressure loss within the system. (Pressure drop must be less than 0.35 bar)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "air_dryer": [
+            {
+              "a": {
+                "description": "Perform function testing. (Inspect the cycle timer 2mins ± 30 sec",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the silencer's regenearion air outlet (K3). Ensure silencer's regeneration air outlet (K3) is clear",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "pressure_reducing_valve": [
+            {
+              "a": {
+                "description": "Pressurize the Pressure Reducing Valve to 9.5 bar and check if the output pressure is 7.5 ± 0.2 bar",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check the windscreen wiper blade.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "safety_valve": [
+            {
+              "a": {
+                "description": "Perform function testing",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "piston_valve": [
+            {
+              "a": {
+                "description": "Check function of cycle timer - (ensure every 2 min, air must blow out of the pre control magnet valve)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check function of piston valve (ensure every 1 min, air and condensate must blow out of the piston valve)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "ep_2002_valve": [
+            {
+              "a": {
+                "description": "Check external LBSR function",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check remote release operation.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check pressure sensor calibration. (Check the interl pressure sensor outputs viewed with the EP2002 Service Termil, using EP2002 Brake Consultant, are wihthin ± 0.15 bar of the pressure measured with a calibrated pressure gauge.)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check emergency derived power supply function. (Remove the main power supply to each valve with the emergency brake input. Ensuring operation of the brakes applied indication and interl LBSR indication are maintained",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "e": {
+                "description": "Test the EB",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "passenger_door_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "all_microswitch": [
+            {
+              "a": {
+                "description": "Inspect set-up and operations",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check for damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "emergency_release_mechanism_and_bowden_cables": [
+            {
+              "a": {
+                "description": "Inspect set-up and operations",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check for damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "wiring_loom": [
+            {
+              "a": {
+                "description": "Inspect conditions of wire",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Ensured all wires held in place with tight connections",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "door_panels_rollers_and_rubber_seals": [
+            {
+              "a": {
+                "description": "Inspect condition for wear and tear, rollers free rotation and excessive noise",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "lock_pins_locking_mechanism_and_solenoid_plunger": [
+            {
+              "a": {
+                "description": "Inspect setting and operations",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check for damage and lubricate",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "isolation_mechanism": [
+            {
+              "a": {
+                "description": "Inspect set-up and operations",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "lubrication": [
+            {
+              "a": {
+                "description": "Lubricate moving part (Used WD40 or equivalent",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "greasing": [
+            {
+              "a": {
+                "description": "Grease the driving arm via greasing nipple",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "bearings": [
+            {
+              "a": {
+                "description": "Inspect condition for unusual damage, lubricate, replace if required",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "fastener": [
+            {
+              "a": {
+                "description": "Inspect tightness, check for unusual damage",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "drive_motor": [
+            {
+              "a": {
+                "description": "Inspect condition for unusual damage, check electrical connection",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "belt_and_gear_assembly": [
+            {
+              "a": {
+                "description": "Inspect set up and operation, condition of belt (tighten if required)",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "spindle_assembly": [
+            {
+              "a": {
+                "description": "Inspect condition for unusual damage, lubricate",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "low_voltage_system": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "low_voltage_distribution_system": [
+            {
+              "a": {
+                "description": "Check the output voltage of the 24VDC converter",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "exterior_lighting_and_wiper_washer_system": [
+            {
+              "a": {
+                "description": "Visually inspect tha the headlight and taillights are functioning",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "smoke_detection_system": [
+            {
+              "a": {
+                "description": "Functional test with smoke fogging",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Test the termil clamps",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Test the condition of the electrical circuits",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "communication": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "pa_and_pis_equipment": [
+            {
+              "a": {
+                "description": "Check the health status at laptop and HMI panelview",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "help_point_radio_pa_system": [
+            {
+              "a": {
+                "description": "Check whether the PA announcer is working by conducting a functional test",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Check whether the PID announcer is working by conducting a functional test",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "c": {
+                "description": "Check whether the RADIO is working by conducting a functional test",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "d": {
+                "description": "Check whether the HELP POINT is working by conducting a functional test",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ],
+          "communication_system": [
+            {
+              "a": {
+                "description": "Do system backup",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              },
+              "b": {
+                "description": "Backup log files",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "coupler_and_drawbar": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "auto_coupler": [
+            {
+              "a": {
+                "description": "Inspect Coupler Face paint and operate the coupler lock manually.",
+                "checks": {
+                  "ECA1": "",
+                  "ICA2": "",
+                  "ICA3": "",
+                  "ECA4": ""
+                }
+              }
+            }
+          ]
+        },
+        "primary_power": {
+          "signed": {
+            "completion_date": "",
+            "supervisor": ""
+          },
+          "power_supply_ground_fault_status_at_hmi": [
+            {
+              "a": {
+                "description": "415 Vac",
+                "checks": {
+                  "ECA1": {
+                    "status": false,
+                    "id": ""
+                  },
+                  "ECA4": {
+                    "status": false,
+                    "id": ""
+                  }
+                }
+              },
+              "b": {
+                "description": "110 Vdc",
+                "checks": {
+                  "ECA1": {
+                    "status": false,
+                    "id": ""
+                  },
+                  "ECA4": {
+                    "status": false,
+                    "id": ""
+                  }
+                }
+              },
+              "c": {
+                "description": "24 Vac",
+                "checks": {
+                  "ECA1": {
+                    "status": false,
+                    "id": ""
+                  },
+                  "ECA4": {
+                    "status": false,
+                    "id": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "train_startup_test": {
+    "4_car_train_no": "30",
+    "date": "",
+    "odometer": 7011.36,
+    "train_startup_checks": {
+      "a": {
+        "description": "All tractions available",
+        "eca1_1": true,
+        "eca1_2": "not required",
+        "ica2_1": true,
+        "ica2_2": true,
+        "ica3_1": true,
+        "ica3_2": true,
+        "eca4_1": "not required",
+        "eca4_2": true
+      },
+      "b": {
+        "description": "ETCS Signaling Systems available",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "c": {
+        "description": "EB/SB/HB and PB status shown functional normal on HMI",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "d": {
+        "description": "Check all temperature alarms normal at HMI",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "e": {
+        "description": "Door open/close status shown normal",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "main_air_compressor": {
+      "a": {
+        "description": "Selected Active (V)",
+        "eca1": "",
+        "eca2": "not required",
+        "eca3": "not required",
+        "eca4": true
+      }
+    },
+    "load_tyre_pressure_(bar)_per_bogie_facing_eca1": {
+      "a": {
+        "description": "Load Tyre Pressure (bar) per bogie facing ECA 1 (1,2,3,4,5,6,7 and 8)",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Bogie",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "passenger_door_functionality_check": {
+      "a": {
+        "description": "Passenger Door 1",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Passenger Door 2",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "c": {
+        "description": "Passenger Door 3",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "d": {
+        "description": "Passenger Door 4",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "traction_system": {
+      "a": {
+        "description": "Coolant Level",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Traction Inverter Bogie 1 Health Status",
+        "ica_1": "not required",
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "c": {
+        "description": "Traction Inverter Bogie 2 Health Status",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "ica_4": "not required"
+      }
+    },
+    "apron_door_status": {
+      "a": {
+        "description": "Apron Door 1",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Apron Door 2",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "c": {
+        "description": "Apron Door 3",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "d": {
+        "description": "Apron Door 4",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "e": {
+        "description": "Apron Door 5",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "f": {
+        "description": "Apron Door 6",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "brakes_&_pneumatic": {
+      "a": {
+        "description": "Self-test - ensure correct operation of SB, EB and WSP",
+        "eca1": true,
+        "eca2": "not required",
+        "eca3": "not required",
+        "eca4": true
+      },
+      "b": {
+        "description": "Brakes control - Test the EB",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "cab": {
+      "a": {
+        "description": "Check CCTV, PIS and PID",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Check fire extinguisher alarm status at HMI",
+        "eca1_1": true,
+        "eca1_2": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4_1": true,
+        "eca4_2": true
+      },
+      "c": {
+        "description": "Check PA system",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "d": {
+        "description": "Check wiper operation including the wiper washer",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "e": {
+        "description": "Check first aid box",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "f": {
+        "description": "Operate headlight & tail light",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "g": {
+        "description": "Check driver console condition",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "h": {
+        "description": "Check condition of components at driver's cab",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "i": {
+        "description": "Check seat condition",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "j": {
+        "description": "Check magnetic door functionality",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "k": {
+        "description": "Demister functionality",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "l": {
+        "description": "Reading Light",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "m": {
+        "description": "Cabin Light",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      }
+    },
+    "saloon": {
+      "a": {
+        "description": "Check interior lighting functioning including the advert light",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Check VAC functionality",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "c": {
+        "description": "Operate passenger Door open/close and ensure all doors are function normal",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "d": {
+        "description": "Check door and window glass and rubber seal for cracks and damages",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "e": {
+        "description": "Inspect door emergency egress handle intact and in correct position",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "f": {
+        "description": "Check ventilation windows in close and unlock position",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "g": {
+        "description": "Check all windows glass & seal for cracks and damages (Ensure glass surface clean)",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "h": {
+        "description": "Functional check the disable seat belts",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "i": {
+        "description": "Check thread plate for any abnormalities (gangway) and any abnormal condition & hazardous.",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "j": {
+        "description": "Check the help point operation",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "exterior": {
+      "a": {
+        "description": "Check apron door locked and secured and ensure no alarm at HMI (when train stabling in depot)",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      },
+      "b": {
+        "description": "Check headlight & tail light for crack & damages",
+        "eca1": true,
+        "ica2": "not required",
+        "ica3": "not required",
+        "eca4": true
+      },
+      "c": {
+        "description": "Amber light indicator status",
+        "eca1": true,
+        "ica2": true,
+        "ica3": true,
+        "eca4": true
+      }
+    },
+    "checked_by": {
+      "id": "",
+      "name": "TARMIZI"
+    }
+  },
+  "water_ponding": {
+    "aps_auxiliary_power_supply": {
+      "eca1": true,
+      "ica2": true,
+      "ica3": true,
+      "eca4": true
+    },
+    "mcal_main_cabinet_apron_left": {
+      "eca1": true,
+      "ica2": true,
+      "ica3": true,
+      "eca4": true
+    },
+    "mcar_main_cabinet_apron_right": {
+      "eca1": true,
+      "ica2": true,
+      "ica3": true,
+      "eca4": true
+    },
+    "traction_inverter_1": {
+      "eca1": true
+    },
+    "traction_inverter_2": {
+      "ica2": true
+    },
+    "traction_inverter_4": {
+      "ica3": true
+    },
+    "traction_inverter_5": {
+      "ica3": true
+    },
+    "traction_inverter_6": {
+      "eca4": true
+    },
+    "date": "",
+    "technician_id": "",
+    "supervisor_id": ""
+  },
+  "cardan_shaft": {
+    "date": "",
+    "technician_id": "",
+    "supervisor_id": "",
+    "bogie_checks": {
+      "bogie2": {
+        "long_cardan_shaft": {
+          "a": true,
+          "b": true
+        },
+        "short_cardan_shaft": {
+          "c": true,
+          "d": true
+        }
+      },
+      "bogie3": {
+        "long_cardan_shaft": {
+          "a": true,
+          "b": true
+        },
+        "short_cardan_shaft": {
+          "c": true,
+          "d": true
+        }
+      },
+      "bogie4": {
+        "long_cardan_shaft": {
+          "a": true,
+          "b": true
+        },
+        "short_cardan_shaft": {
+          "c": true,
+          "d": true
+        }
+      },
+      "bogie5": {
+        "long_cardan_shaft": {
+          "a": true,
+          "b": true
+        },
+        "short_cardan_shaft": {
+          "c": true,
+          "d": true
+        }
+      },
+      "bogie6": {
+        "long_cardan_shaft": {
+          "a": true,
+          "b": true
+        },
+        "short_cardan_shaft": {
+          "c": true,
+          "d": true
+        }
+      },
+      "bogie7": {
+        "long_cardan_shaft": {
+          "a": true,
+          "b": true
+        },
+        "short_cardan_shaft": {
+          "c": true,
+          "d": true
+        }
+      }
+    }
+  },
+  "cceb": {
+    "train_no": "",
+    "location": "BRICKFIELDS DEPOT",
+    "frequency": "MONTHLY",
+    "date": "",
+    "currect_collector": {
+      "ca": "",
+      "cb": "",
+      "cc": "",
+      "cd": "",
+      "ce": "",
+      "cf": ""
+    },
+    "earthing": {
+      "e1": "10.5",
+      "e2": "",
+      "e3": "",
+      "e4": ""
+    },
+    "technician_detail": {
+      "technician_id": "",
+      "technician_date": ""
+    },
+    "supervisor_detail": {
+      "supervisor_id": "",
+      "supervisor_date": ""
+    },
+    "remarks": ""
+  },
+  "airbag_pressure": {
+    "bogie1": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie2": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie3": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie4": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie5": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie6": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie7": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "bogie8": {
+      "bogie_sn": "",
+      "pressure_before": "",
+      "pressure_after": "",
+      "height_before": "",
+      "height_after": ""
+    },
+    "approval": {
+      "date": "",
+      "technician_id": "",
+      "supervisor_id": ""
+    }
+  },
+  "tyre_pressure": {
+    "eca1": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      }
+    },
+    "ica2": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      }
+    },
+    "ica3": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      }
+    },
+    "eca4": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        },
+        "load_wheel": {
+          "before": "",
+          "after": ""
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "before": "",
+            "after": ""
+          },
+          "b": {
+            "before": "",
+            "after": ""
+          },
+          "c": {
+            "before": "",
+            "after": ""
+          }
+        }
+      }
+    },
+    "approval": {
+      "date": "",
+      "technician_id": "",
+      "supervisor_id": ""
+    }
+  },
+  "tyre_wear": {
+    "eca1": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      }
+    },
+    "ica2": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      }
+    },
+    "ica3": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      }
+    },
+    "eca4": {
+      "bogie1": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      },
+      "bogie2": {
+        "bogie_sn": "",
+        "top_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        },
+        "load_wheel": {
+          "a": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove2": "",
+            "groove6": "",
+            "groove7": ""
+          }
+        },
+        "bottom_guide_wheel": {
+          "a": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "b": {
+            "groove1": "",
+            "groove5": ""
+          },
+          "c": {
+            "groove1": "",
+            "groove5": ""
+          }
+        }
+      }
+    },
+    "approval": {
+      "date": "",
+      "technician_id": "",
+      "supervisor_id": ""
+    }
+  }
+}

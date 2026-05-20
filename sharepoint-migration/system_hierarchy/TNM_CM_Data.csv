@@ -1,0 +1,447 @@
+work_order_no|notification_no|created_on|station|system|sub_system|sub_sub_system|check_system|check_sub_system|check_sub_sub_system
+4000449001|11892690|2022-01-02 00:04:46|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000444230|11895462|2022-01-07 10:38:43|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000445244|11897330|2022-01-17 18:25:02|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000470781|11910007|2022-02-16 16:51:21|DEPOT|Compressor 1 & 2|Filter|Filter To remove contaminants like liquid water from the compressed air stream.|True|True|True
+4000458883|11918502|2022-03-04 19:09:44|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000459325|11933196|2022-04-08 08:49:00|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000462067|11937805|2022-04-21 08:49:59|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000466935|11950373|2022-05-23 10:41:14|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000467337|11951180|2022-05-25 17:30:16|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000470588|11959000|2022-06-09 15:43:23|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000470989|11960926|2022-06-16 03:12:22|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000471190|11961165|2022-06-16 10:13:43|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000471844|11962079|2022-06-17 16:44:24|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000471236|11961285|2022-06-17 01:47:16|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000472148|11962427|2022-06-18 15:58:56|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000472187|11962528|2022-06-19 14:40:42|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000472338|11962861|2022-06-20 16:58:08|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000472263|11962727|2022-06-20 10:42:17|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000472500|11963362|2022-06-21 16:17:10|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000472394|11962934|2022-06-21 02:09:25|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000472395|11962935|2022-06-21 02:14:12|MNL|Powerrail|Rail|Cover board|True|True|True
+4000472564|11963456|2022-06-22 01:21:19|MNL|GUIDEWAY BEAM|Beam|Buffer Stop|True|True|True
+4000473929|11964368|2022-06-22 21:10:40|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000473166|11965076|2022-06-24 16:06:10|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000473832|11966715|2022-06-28 16:03:41|DEPOT|SWITCH 7 & 8|Carriage Including Carriage Wheel|Carriage|True|True|True
+4000474014|11967029|2022-06-29 21:48:54|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000475119|11967030|2022-06-29 22:02:03|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000473952|11966932|2022-06-29 15:50:59|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000474090|11967229|2022-06-30 14:23:22|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000474089|11967228|2022-06-30 14:16:02|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000474327|11971154|2022-07-02 02:57:08|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000474921|11971903|2022-07-04 03:17:13|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000475053|11972245|2022-07-05 03:23:43|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000475329|11972858|2022-07-07 01:45:22|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000475453|11973052|2022-07-07 16:53:07|DEPOT|Bogie Drop Pit|Bogie Drop Pit 1|Rotating Table|True|True|True
+4000475803|11972969|2022-07-07 10:23:28|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000475723|11973646|2022-07-10 02:35:37|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000475724|11973647|2022-07-10 02:40:40|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000475840|11973956|2022-07-12 10:50:50|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000475830|11973899|2022-07-12 02:14:09|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000475844|11973959|2022-07-12 11:22:49|DEPOT|SWITCH 1 & 2|Lockpin|All Sensor on Lockpin|True|True|True
+4000476013|11974327|2022-07-14 02:36:46|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000476264|11974625|2022-07-14 12:05:10|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000476303|11974726|2022-07-15 02:54:57|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000479077|11979253|2022-07-27 16:47:08|DEPOT|SWITCH 7 & 8|P.L.C|PLC-Central Processing Unit (CPU) (Attach Detail)|True|True|True
+4000479387|11979888|2022-07-29 12:25:34|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000479232|11979570|2022-07-29 04:10:18|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000481123|11984884|2022-07-30 10:52:38|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000480269|11985019|2022-08-03 02:40:28|DEPOT|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000480986|11986362|2022-08-07 03:44:59|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000481245|11986912|2022-08-09 17:38:25|DEPOT|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000483160|11987246|2022-08-11 03:48:54|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000481865|11988185|2022-08-13 11:40:11|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000482193|11988914|2022-08-16 10:15:44|DEPOT|AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|True|True|True
+4000483098|11990038|2022-08-18 13:43:49|DEPOT|AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|True|True|True
+4000483633|11991075|2022-08-21 02:32:26|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000483673|11991189|2022-08-22 00:57:13|DEPOT|SWITCH 7 & 8|Local Control Panel|Pilot Lamp Specifications : Round Flush, Without Lamp, White and Amber|True|True|True
+4000485493|11991611|2022-08-23 02:19:48|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000484116|11991811|2022-08-24 04:48:47|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000484413|11992730|2022-08-26 17:20:42|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000484447|11992868|2022-08-27 10:36:33|MNL|GUIDEWAY BEAM|Earthing plate|Earthing Rail|True|True|True
+4000484460|11992886|2022-08-27 15:27:06|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000486278|11999099|2022-09-03 16:23:51|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000486280|11999100|2022-09-03 16:30:37|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000486281|11999101|2022-09-03 16:36:28|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000487622|12001932|2022-09-13 16:03:05|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000488144|12002970|2022-09-17 01:56:34|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000488437|12003560|2022-09-18 16:31:57|DEPOT|Track Maintenance Vehicle 1|Vehicle Body|TRAILER material: Steel and Aluminum Alloy|True|True|True
+4000488599|12003594|2022-09-19 00:08:42|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000489903|12005321|2022-09-23 03:32:31|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000490360|12007130|2022-09-27 15:35:21|DEPOT|Compressor 1 & 2|Tank|Air tank serial nr : YF/12/ 78.5 volume 2000L Safety blown down valve of air receiver tank (Detail Size Thread Valve 3/4 or 1/2)|True|True|True
+4000491828|12013120|2022-10-04 17:10:28|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000491928|12013265|2022-10-05 11:21:34|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000492052|12013468|2022-10-06 07:55:13|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000492817|12014837|2022-10-11 14:26:59|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000493058|12015379|2022-10-13 18:04:03|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000493268|12015762|2022-10-14 11:57:47|DEPOT|AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|LATERAL CYLINDER -Train wash unit C5400 SOA|True|True|True
+4000497845|12016092|2022-10-15 14:07:53|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000493839|12016663|2022-10-17 16:31:13|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000494318|12017258|2022-10-18 12:11:08|DEPOT|Compressor 5, 6 & 7|Tank|Air valve|True|True|True
+4000494610|12017706|2022-10-19 15:01:51|DEPOT|Compressor 1 & 2|Tank|Air tank serial nr : YF/12/ 78.5 volume 2000L Safety blown down valve of air receiver tank (Detail Size Thread Valve 3/4 or 1/2)|True|True|True
+4000494937|12018636|2022-10-21 16:42:51|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000495749|12019867|2022-10-27 08:59:53|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000496187|12020797|2022-10-31 02:35:47|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000496279|12021086|2022-11-01 04:01:27|DEPOT|SWITCH 7 & 8|Carriage Including Carriage Wheel|Carriage|True|True|True
+4000498077|12027901|2022-11-10 03:44:15|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000498204|12028105|2022-11-10 17:57:51|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000498290|12028367|2022-11-11 11:47:52|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000501282|12028126|2022-11-11 00:16:46|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000499668|12030264|2022-11-16 14:55:48|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000501285|12030358|2022-11-16 21:20:47|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000499718|12030374|2022-11-17 02:05:13|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000501286|12030552|2022-11-17 08:15:17|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000500421|12031572|2022-11-21 03:33:39|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000500697|12032215|2022-11-22 13:57:54|DEPOT|Track Maintenance Vehicle 2|Electrical Appliance|SHINOHAWA MY4N|True|True|True
+4000500813|12032528|2022-11-23 14:27:20|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000501287|12032708|2022-11-24 08:26:26|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000501180|12032889|2022-11-24 17:32:53|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000502163|12038242|2022-12-01 15:32:10|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000502031|12038101|2022-12-01 11:03:48|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000503058|12039738|2022-12-05 15:09:38|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000503403|12040441|2022-12-07 21:29:35|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000503842|12041450|2022-12-12 04:37:34|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000503981|12041846|2022-12-13 16:19:42|DEPOT|AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinder|Spraying pipe for under-floor|True|True|True
+4000503901|12041635|2022-12-13 03:18:18|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000503978|12041832|2022-12-13 16:05:27|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000507088|12043550|2022-12-14 21:00:29|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507089|12043713|2022-12-15 11:16:22|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000504694|12043578|2022-12-15 05:10:06|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000504695|12044119|2022-12-16 07:52:50|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507091|12044326|2022-12-17 05:58:27|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000506075|12046418|2022-12-21 15:40:03|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000507090|12046506|2022-12-22 06:07:58|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507093|12046691|2022-12-22 16:30:13|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507096|12046577|2022-12-22 09:30:23|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000507092|12047575|2022-12-23 06:17:50|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507094|12047577|2022-12-23 06:30:49|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000507097|12048077|2022-12-24 17:27:37|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507100|12048065|2022-12-24 15:29:04|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507099|12048059|2022-12-24 14:09:47|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507098|12048057|2022-12-24 14:00:27|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507101|12048042|2022-12-24 13:24:33|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000506414|12048104|2022-12-25 00:41:07|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000507095|12048470|2022-12-27 10:25:26|MNL|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000506808|12048508|2022-12-27 12:27:58|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000506816|12048701|2022-12-28 03:40:52|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000506914|12049659|2022-12-29 02:50:51|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000509621|12055038|2023-01-02 22:02:17|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000507533|12054438|2023-01-02 05:59:03|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000509623|12055371|2023-01-03 22:12:10|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000509626|12056213|2023-01-06 10:51:18|TSA|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000509627|12056177|2023-01-06 09:24:31|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000508488|12055986|2023-01-06 04:52:57|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000509628|12056631|2023-01-07 23:01:33|MNL|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000509632|12056784|2023-01-08 09:20:22|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000508853|12056865|2023-01-09 01:13:37|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000509254|12057676|2023-01-10 17:35:50|DEPOT|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000509441|12057982|2023-01-12 03:57:41|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000509689|12058565|2023-01-13 12:17:31|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000511580|12059001|2023-01-14 06:32:41|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511581|12060329|2023-01-18 08:46:35|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511582|12060786|2023-01-19 06:56:10|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000511584|12061259|2023-01-20 10:29:31|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000511586|12061203|2023-01-20 05:43:21|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511585|12061383|2023-01-20 19:27:10|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511530|12061701|2023-01-23 02:18:55|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000511590|12061706|2023-01-23 03:39:46|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511588|12061735|2023-01-23 06:33:36|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511589|12061803|2023-01-23 13:19:29|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000511591|12061731|2023-01-23 06:08:42|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000511587|12061696|2023-01-23 02:06:20|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000511592|12061728|2023-01-23 04:57:54|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000511630|12061906|2023-01-24 05:49:57|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000512828|12062029|2023-01-24 23:46:02|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000511631|12061903|2023-01-24 04:57:44|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000512831|12062028|2023-01-24 20:08:19|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000512826|12062610|2023-01-25 22:19:36|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000512836|12062032|2023-01-25 01:01:21|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000512838|12062064|2023-01-25 06:49:56|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000512837|12062042|2023-01-25 05:57:31|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000512840|12062721|2023-01-26 09:02:08|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513209|12062860|2023-01-26 10:39:47|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513207|12062865|2023-01-26 10:41:03|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513208|12062920|2023-01-26 12:37:54|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000512841|12062953|2023-01-26 14:54:35|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513210|12062666|2023-01-26 05:19:27|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000513211|12062755|2023-01-26 09:39:43|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000513213|12063271|2023-01-27 11:39:05|DEPOT|SWITCH 7 & 8|Switch Beam|Pivot Bearing|True|True|True
+4000513214|12063207|2023-01-27 07:34:56|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513215|12063238|2023-01-27 10:27:48|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513219|12063429|2023-01-27 15:33:50|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513217|12063462|2023-01-27 17:28:12|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000512493|12063537|2023-01-28 04:16:35|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000513222|12063701|2023-01-28 23:04:02|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513221|12063700|2023-01-28 22:41:18|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513231|12064423|2023-01-31 17:04:49|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513223|12064246|2023-01-31 07:12:12|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513235|12064350|2023-01-31 13:51:07|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513233|12064355|2023-01-31 14:04:41|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513230|12064356|2023-01-31 14:09:24|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513229|12064358|2023-01-31 14:13:04|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513227|12064368|2023-01-31 14:30:31|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513226|12064388|2023-01-31 15:47:09|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000513232|12064429|2023-01-31 17:38:12|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514902|12069129|2023-02-02 19:58:45|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514903|12069192|2023-02-03 06:15:11|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514905|12069894|2023-02-05 08:09:18|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514155|12070153|2023-02-06 21:24:53|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514231|12070247|2023-02-07 10:24:42|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000514315|12070337|2023-02-07 13:48:25|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000514906|12070808|2023-02-08 22:36:28|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514907|12070809|2023-02-08 22:39:45|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514908|12070811|2023-02-08 22:42:30|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514909|12070812|2023-02-08 22:44:42|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000514515|12070977|2023-02-09 09:46:02|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000516448|12071390|2023-02-10 06:53:50|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516449|12071879|2023-02-11 15:10:04|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516452|12072105|2023-02-12 22:41:33|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516455|12072171|2023-02-13 05:27:27|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516454|12072300|2023-02-13 15:53:01|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516966|12072492|2023-02-14 06:28:59|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516968|12072491|2023-02-14 06:20:28|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000516967|12072490|2023-02-14 06:15:05|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000515519|12072758|2023-02-15 03:57:45|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000517029|12073159|2023-02-15 13:47:54|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516969|12073105|2023-02-15 09:54:52|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000517031|12073062|2023-02-15 07:43:06|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000515896|12073180|2023-02-15 14:35:29|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000517032|12073742|2023-02-16 22:01:10|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000517033|12073405|2023-02-16 08:59:55|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000516517|12074321|2023-02-17 16:53:08|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000516532|12074388|2023-02-18 03:56:23|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000517763|12074731|2023-02-19 10:06:29|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000517152|12074783|2023-02-20 00:52:56|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000517187|12075624|2023-02-22 02:36:53|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000517764|12076027|2023-02-23 08:56:37|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000518965|12075981|2023-02-23 06:21:54|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000518966|12075974|2023-02-23 05:57:20|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000518967|12076512|2023-02-24 06:16:07|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000518968|12076968|2023-02-26 09:36:46|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000518969|12081523|2023-03-01 06:10:42|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000518970|12081524|2023-03-01 06:17:05|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000522247|12082158|2023-03-02 09:13:08|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522250|12082621|2023-03-03 12:12:30|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522252|12082629|2023-03-03 12:35:11|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522260|12082632|2023-03-03 12:46:53|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000522261|12082979|2023-03-05 06:32:45|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522264|12083107|2023-03-06 05:41:25|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522267|12083667|2023-03-07 16:44:35|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522272|12083791|2023-03-08 07:27:53|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000519770|12083761|2023-03-08 01:44:46|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000520114|12084720|2023-03-10 08:51:05|MNL|Powerrail|Rail|Cover board|True|True|True
+4000522882|12084694|2023-03-10 06:58:15|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522883|12085115|2023-03-11 05:34:39|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522884|12085246|2023-03-12 08:17:44|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522885|12085392|2023-03-13 08:21:27|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522886|12085904|2023-03-14 10:22:01|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000520903|12086128|2023-03-15 03:05:45|MNL|Powerrail|Rail|Cover board|True|True|True
+4000522888|12086186|2023-03-15 05:27:50|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522889|12086487|2023-03-16 05:26:55|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522899|12087735|2023-03-18 10:05:22|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522893|12087976|2023-03-19 10:15:25|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000522895|12088092|2023-03-20 06:50:38|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000523760|12091943|2023-03-30 02:47:12|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000524036|12096488|2023-04-02 00:28:24|DEPOT|SWITCH 7 & 8|Local Control Panel|Pilot Lamp Specifications : Round Flush, Without Lamp, White and Amber|True|True|True
+4000524701|12097014|2023-04-03 02:33:41|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000525074|12097696|2023-04-05 04:11:18|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000526061|12099310|2023-04-10 16:47:41|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000526150|12099582|2023-04-11 14:32:00|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000526184|12099735|2023-04-12 08:25:24|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000526344|12100042|2023-04-13 00:54:35|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000526872|12100977|2023-04-15 16:42:48|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000527419|12101760|2023-04-18 03:35:25|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000527912|12102349|2023-04-19 02:57:20|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000528325|12103540|2023-04-26 09:47:58|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000529618|12103625|2023-04-26 18:02:03|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000529783|12109727|2023-05-04 02:14:27|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000530389|12111193|2023-05-09 16:44:34|DEPOT|Bogie Drop Pit|Bogie Drop Pit 1|Rotating Table|True|True|True
+4000530528|12111536|2023-05-11 08:04:32|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000530653|12111945|2023-05-12 09:52:13|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000531469|12112981|2023-05-15 12:32:20|MNL|Powerrail|Rail|Cover board|True|True|True
+4000531507|12113067|2023-05-16 02:49:36|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000531598|12113333|2023-05-17 00:59:10|DEPOT|SWITCH 7 & 8|Guidance truck|Plate Sensor|True|True|True
+4000531994|12113914|2023-05-18 03:05:52|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000532499|12114777|2023-05-19 09:36:02|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000532743|12115337|2023-05-22 03:32:14|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000533115|12115875|2023-05-23 03:45:15|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000533262|12116171|2023-05-23 18:29:52|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000534026|12117731|2023-05-30 00:00:00|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000535624|12118208|2023-05-31 14:12:20|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000534216|12118079|2023-05-31 00:00:00|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000534410|12118325|2023-06-01 02:58:55|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000534220|12118089|2023-06-01 00:00:00|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000535314|12123002|2023-06-02 18:16:11|MNL|Powerrail|Rail|Cover board|True|True|True
+4000535630|12123010|2023-06-02 18:41:13|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000535976|12124243|2023-06-08 12:57:03|DEPOT|AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|LATERAL CYLINDER -Train wash unit C5400 SOA|True|True|True
+4000535955|12124221|2023-06-08 11:25:53|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000536034|12124324|2023-06-09 03:22:35|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000537325|12125737|2023-06-14 06:01:14|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000537416|12126772|2023-06-17 02:47:13|MNL|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000537905|12127391|2023-06-19 03:39:51|MNL|GUIDEWAY BEAM|Finger Plate|Top plate 60mm|True|True|True
+4000538739|12129890|2023-06-23 11:39:29|DEPOT|Track Maintenance Vehicle 3|TMV Genset|STARTER GENSET DENSO 12V PART NO. 17381-63015|True|True|True
+4000538736|12129887|2023-06-23 11:31:39|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000539283|12129988|2023-06-23 20:52:54|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000538740|12129891|2023-06-23 11:46:06|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000538997|12130315|2023-06-25 19:28:25|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000539843|12131979|2023-06-29 22:36:48|TSA|SWITCH 7 & 8|Carriage Including Carriage Wheel|Carriage|True|True|True
+4000540916|12137187|2023-07-04 22:55:19|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000540790|12137035|2023-07-04 09:35:49|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000541357|12138003|2023-07-07 12:44:59|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000541454|12138174|2023-07-08 03:42:40|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000541709|12138710|2023-07-10 14:04:02|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000542150|12139369|2023-07-11 12:00:48|DEPOT|AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Tube NW 8 x 2,5 mm (piece goods) -Placed at metering unit|True|True|True
+4000542151|12139370|2023-07-11 12:13:22|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000543269|12141333|2023-07-17 11:45:20|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000543367|12141471|2023-07-17 16:48:04|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000542874|12140840|2023-07-17 02:49:19|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000543515|12141665|2023-07-18 03:58:08|MNL|GUIDEWAY BEAM STRUCTURE|Bridge|Skru Bridge & Nut|True|True|True
+4000543856|12142286|2023-07-20 03:27:24|MNL|GUIDEWAY BEAM|Finger Plate|Top plate 60mm|True|True|True
+4000544563|12142391|2023-07-20 11:17:18|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000544124|12143063|2023-07-22 07:45:56|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000544289|12143152|2023-07-23 03:24:34|MNL|GUIDEWAY BEAM|Finger Plate|Top plate 60mm|True|True|True
+4000545025|12144291|2023-07-26 14:57:27|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000545093|12144423|2023-07-27 02:30:39|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000545787|12145789|2023-08-01 03:36:08|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000545792|12149516|2023-08-01 07:44:50|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000546013|12150142|2023-08-02 08:15:48|DEPOT|Compressor 5, 6 & 7|Tank|Air valve|True|True|True
+4000546010|12149699|2023-08-02 02:30:53|DEPOT|Track Maintenance Vehicle 2|Electrical Appliance|SHINOHAWA MY4N|True|True|True
+4000546631|12150584|2023-08-03 11:28:42|DEPOT|Bogie Drop Pit|Bogie Drop Pit 1|Rotating Table|True|True|True
+4000546746|12150917|2023-08-04 02:48:13|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000546742|12150913|2023-08-04 00:46:14|DEPOT|Track Maintenance Vehicle 2|Electrical Appliance|SHINOHAWA MY4N|True|True|True
+4000547105|12151720|2023-08-07 03:50:33|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000547224|12152057|2023-08-08 07:55:42|MNL|Powerrail|Rail|Cover board|True|True|True
+4000547435|12152582|2023-08-10 04:03:19|MNL|Powerrail|Rail|Cover board|True|True|True
+4000548279|12152616|2023-08-10 07:15:30|DEPOT|Pedestal Grinder|Electric Motor|Power switch|True|True|True
+4000547681|12153174|2023-08-12 02:22:16|MNL|AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Terminal with jumper 2,5 mm² double|True|True|True
+4000547932|12153523|2023-08-13 01:29:58|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000548306|12154213|2023-08-15 15:13:09|DEPOT|Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|True|True|True
+4000548305|12154210|2023-08-15 15:09:53|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000549586|12156129|2023-08-20 04:18:35|MNL|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000549642|12156264|2023-08-21 02:44:31|MNL|Powerrail|Insulator assembly|Support bracket mainline|True|True|True
+4000549829|12156537|2023-08-22 03:28:53|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000549926|12156761|2023-08-23 03:28:11|TSA|SWITCH 3|Motor|Motor brake|True|True|True
+4000550026|12156971|2023-08-24 01:54:00|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000550176|12157185|2023-08-25 03:48:22|MNL|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000550503|12157660|2023-08-26 03:06:46|DEPOT|Track Maintenance Vehicle 3|TMV Genset|STARTER GENSET DENSO 12V PART NO. 17381-63015|True|True|True
+4000550608|12157834|2023-08-27 04:19:09|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000550682|12157993|2023-08-28 07:10:11|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000551058|12158685|2023-08-29 13:52:39|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000551057|12158683|2023-08-29 13:34:14|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000551656|12163420|2023-09-01 16:07:07|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000551657|12163423|2023-09-01 16:16:12|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000552228|12164070|2023-09-02 13:05:55|DEPOT|Track Maintenance Vehicle 2|Electrical Appliance|SHINOHAWA MY4N|True|True|True
+4000552253|12164184|2023-09-03 12:19:34|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000552531|12164630|2023-09-05 13:32:57|DEPOT|Compressor 5, 6 & 7|Tank|Air valve|True|True|True
+4000552819|12164944|2023-09-06 15:13:58|DEPOT|AUTOMATIC TRAIN WASH PLANT|Water system|DRAIN VALVE|True|True|True
+4000553630|12164827|2023-09-06 10:34:16|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000552945|12165261|2023-09-07 13:44:42|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000553149|12165722|2023-09-08 12:14:33|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000553143|12165717|2023-09-08 12:02:09|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000553144|12165718|2023-09-08 12:05:40|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000553281|12165968|2023-09-08 16:55:22|DEPOT|Traverser|Hydraulic|(Attach Motor Pump Hydraulic)|True|True|True
+4000553147|12165720|2023-09-08 12:09:21|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000553383|12166253|2023-09-09 13:50:25|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000553623|12167071|2023-09-12 13:07:17|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000553624|12167073|2023-09-12 13:15:52|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000553969|12167678|2023-09-13 14:08:48|DEPOT|Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|True|True|True
+4000553970|12167679|2023-09-13 14:15:22|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000554038|12167841|2023-09-14 09:51:39|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000554076|12167897|2023-09-14 11:54:01|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000554317|12168797|2023-09-16 10:57:44|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000555131|12169421|2023-09-18 14:42:27|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000555654|12170176|2023-09-20 16:44:35|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000555664|12170191|2023-09-20 17:54:39|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000555592|12170052|2023-09-20 11:30:01|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000555658|12170184|2023-09-20 17:21:28|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000555957|12170637|2023-09-21 16:07:52|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000556231|12171132|2023-09-22 15:16:19|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000556225|12171108|2023-09-22 12:53:14|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000556359|12171374|2023-09-23 02:30:22|DEPOT|SWITCH 5 & 6|Local Control Panel|MERLIN GERIN multi9 NC45a C6|True|True|True
+4000556432|12171496|2023-09-23 11:53:54|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000556505|12171660|2023-09-24 11:56:42|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000556506|12171664|2023-09-24 12:10:26|DEPOT|SWITCH 4|Switchdeck & RC Beam|Flipper|True|True|True
+4000556622|12171964|2023-09-25 16:34:32|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000556702|12172165|2023-09-26 10:21:27|DEPOT|SWITCH 7 & 8|Local Control Panel|Auxiliary Switch (ChangeOver) Brand : MERLIN GERIN Specifications : Used for MCCB , OF/SD/SDE/SDV|True|True|True
+4000557845|12173103|2023-09-27 10:44:28|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000556958|12173361|2023-09-28 14:42:08|DEPOT|Compressor 5, 6 & 7|Electric & Electronic Part|MCB C10, C6 HITACHI|True|True|True
+4000556957|12173355|2023-09-28 13:59:15|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000557069|12173642|2023-09-29 13:13:56|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000557289|12174008|2023-09-30 19:19:21|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000557290|12174009|2023-09-30 19:29:11|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000557291|12174011|2023-09-30 19:54:47|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000557873|12173966|2023-09-30 13:16:33|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000557271|12173976|2023-09-30 13:25:09|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000557304|12174024|2023-10-01 03:49:28|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000557305|12177738|2023-10-01 14:06:34|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000557904|12178348|2023-10-02 14:58:34|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000557942|12178400|2023-10-02 16:06:34|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000558264|12178813|2023-10-03 17:42:52|DEPOT|AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|True|True|True
+4000558263|12178812|2023-10-03 17:37:24|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000558389|12179056|2023-10-04 16:57:53|DEPOT|Bogie Drop Pit|Bogie Drop Pit 1|Rotating Table|True|True|True
+4000558514|12179359|2023-10-05 14:02:13|DEPOT|AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|True|True|True
+4000558799|12179914|2023-10-06 13:13:36|DEPOT|AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|True|True|True
+4000558755|12179864|2023-10-06 10:14:30|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000558800|12179915|2023-10-06 13:18:57|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000558979|12180377|2023-10-08 13:57:20|DEPOT|Traverser|Hydraulic|(Attach Motor Pump Hydraulic)|True|True|True
+4000559050|12180419|2023-10-08 23:42:35|DEPOT|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000558980|12180378|2023-10-08 14:13:31|DEPOT|AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|True|True|True
+4000559027|12180388|2023-10-08 15:04:40|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000559028|12180389|2023-10-08 15:18:39|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000559145|12180681|2023-10-09 15:14:22|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000559126|12180641|2023-10-09 13:13:16|DEPOT|Compressor 5, 6 & 7|Electric & Electronic Part|MCB C10, C6 HITACHI|True|True|True
+4000559391|12181441|2023-10-11 11:34:16|DEPOT|Compressor 5, 6 & 7|Tank|Air valve|True|True|True
+4000559543|12181819|2023-10-12 16:15:21|DEPOT|Track Maintenance Vehicle 2|Electrical Appliance|SHINOHAWA MY4N|True|True|True
+4000559678|12182298|2023-10-13 16:32:54|DEPOT|SWITCH 1 & 2|Fallback Control Panel|General Purpose Timer, Delay-Off Adjustable (OMRON)|True|True|True
+4000559631|12182192|2023-10-13 12:05:51|DEPOT|Track Maintenance Vehicle 3|Electrical Appliance|TEMPERATURE CONTROLLER AUTONICS TC4S|True|True|True
+4000559632|12182196|2023-10-13 12:17:25|DEPOT|Compressor 1 & 2|Tank|Air tank serial nr : YF/12/ 78.5 volume 2000L Safety blown down valve of air receiver tank (Detail Size Thread Valve 3/4 or 1/2)|True|True|True
+4000559983|12182737|2023-10-14 14:24:11|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000560022|12182867|2023-10-15 15:40:22|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000560185|12183163|2023-10-16 15:08:10|DEPOT|AUTOMATIC TRAIN WASH PLANT|Water system|SWITCHBOARD PLANT PANEL SYSTEM TYPE : TRAINWASH C5400 400V 3/N/PE~50Hz, 48kW, 85A|True|True|True
+4000560184|12183162|2023-10-16 14:58:51|DEPOT|Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|True|True|True
+4000560187|12183165|2023-10-16 15:12:12|KLS|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000560951|12184142|2023-10-18 16:27:22|DEPOT|SWITCH 1 & 2|Lockpin|All Sensor on Lockpin|True|True|True
+4000560950|12184139|2023-10-18 16:20:39|DEPOT|Compressor 5, 6 & 7|Tank|Safety valve|True|True|True
+4000561208|12184613|2023-10-19 17:19:50|MNL|Powerrail|Rail|Cover board|True|True|True
+4000561207|12184612|2023-10-19 17:00:24|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000561264|12184863|2023-10-20 07:58:54|MNL|Powerrail|Rail|Cover board|True|True|True
+4000561495|12185189|2023-10-20 15:39:00|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000562389|12185435|2023-10-22 02:10:25|DEPOT|Powerrail|Rail|Cover board|True|True|True
+4000561736|12185605|2023-10-23 04:00:23|MNL|Powerrail|Rail|Cover board|True|True|True
+4000562153|12186545|2023-10-25 11:15:58|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000562383|12186888|2023-10-26 15:25:50|DEPOT|Powerrail|Rail|Cover board|True|True|True
+4000562341|12186799|2023-10-26 08:43:24|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000562728|12187387|2023-10-27 17:47:22|DEPOT|Powerrail|Rail|Cover board|True|True|True
+4000562909|12187652|2023-10-28 17:18:54|DEPOT|Powerrail|Rail|Cover board|True|True|True
+4000562951|12187727|2023-10-29 13:44:03|DEPOT|SWITCH 7 & 8|P.L.C|PLC-Central Processing Unit (CPU) (Attach Detail)|True|True|True
+4000563259|12188411|2023-10-31 13:53:15|MNL|Powerrail|Rail|Cover board|True|True|True
+4000563335|12188511|2023-11-01 04:20:06|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000567761|12194287|2023-11-06 05:59:20|TSA|SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|True|True|True
+4000565001|12194879|2023-11-07 17:57:30|MNL|SWITCH 3|Motor|Motor brake|True|True|True
+4000565000|12194877|2023-11-07 17:53:53|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000565152|12195183|2023-11-08 15:53:35|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000565247|12195301|2023-11-09 07:46:49|MNL|Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB 15A ABS 33C|True|True|True
+4000565439|12195771|2023-11-10 12:18:43|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000565875|12196649|2023-11-14 11:03:04|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000567763|12197077|2023-11-15 00:59:06|DEPOT|SWITCH 3|Switchdeck & RC Beam|Flipper|True|True|True
+4000566485|12197817|2023-11-16 15:37:36|MNL|Powerrail|Rail|Cover board|True|True|True
+4000566926|12198859|2023-11-18 09:27:30|MNL|Powerrail|Insulator assembly|Insulator|True|True|True
+4000566927|12198862|2023-11-18 09:30:19|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|True|True|True
+4000567198|12199018|2023-11-19 11:57:36|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000567786|12199999|2023-11-21 14:43:23|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000568925|12201796|2023-11-28 13:35:06|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000569356|12202528|2023-11-30 17:23:57|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000571079|12208798|2023-12-08 11:16:17|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000571307|12209079|2023-12-09 11:40:35|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000571308|12209081|2023-12-09 11:45:01|DEPOT|SWITCH 7 & 8|Switchdeck & RC Beam|Junction Box|True|True|True
+4000571442|12209361|2023-12-11 11:39:19|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000571838|12211424|2023-12-14 07:45:10|DEPOT|Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|True|True|True
+4000572030|12211476|2023-12-14 11:31:12|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000572355|12212119|2023-12-15 14:07:08|DEPOT|SWITCH 3|Motor|Motor brake|True|True|True
+4000572959|12212117|2023-12-15 14:03:45|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000573141|12213162|2023-12-18 10:24:04|DEPOT|SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|True|True|True
+4000573604|12213960|2023-12-20 10:59:14|DEPOT|GUIDEWAY BEAM|Earthing plate|Earthing bracket|True|True|True
+4000574222|12215790|2023-12-25 11:34:05|MNL|GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|True|True|True
+4000574964|12217592|2023-12-28 15:55:54|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True
+4000575158|12218038|2023-12-29 16:57:39|MNL|GUIDEWAY BEAM|Beam|Expansion joint plate|True|True|True

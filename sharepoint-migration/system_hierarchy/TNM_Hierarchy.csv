@@ -1,0 +1,803 @@
+system|sub_system|sub_sub_system|department
+SWITCH 1 & 2|Switchdeck & RC Beam|Flipper|TNMD
+SWITCH 1 & 2|Switchdeck & RC Beam|Flashing Yellow Light (Patlite PSF-220-Y)|TNMD
+SWITCH 1 & 2|Switchdeck & RC Beam|Static Blue Light (Patlite PS-220-B)|TNMD
+SWITCH 1 & 2|Carriage Including Carriage Wheel|Roller|TNMD
+SWITCH 1 & 2|Carriage Including Carriage Wheel|Refill non-rumba hand grease pump reservoir (Can get model)|TNMD
+SWITCH 1 & 2|Lockpin|All Sensor on Lockpin|TNMD
+SWITCH 1 & 2|Lockpin|Motor Cylinder|TNMD
+SWITCH 1 & 2|Lockpin|3 PHASE BRAKE MOTOR|TNMD
+SWITCH 1 & 2|Rotork system|Gear Motor|TNMD
+SWITCH 1 & 2|Rotork system|Remote for setting|TNMD
+SWITCH 1 & 2|Rotork system|Battery Remote Rotork|TNMD
+SWITCH 1 & 2|Non - Rumba mechanism|Non-Rumba brake motor|TNMD
+SWITCH 1 & 2|Non - Rumba mechanism|Non-Rumba motor cylinder|TNMD
+SWITCH 1 & 2|Switch Beam|Arm guide|TNMD
+SWITCH 1 & 2|Switch Beam|Finger plate switch beam|TNMD
+SWITCH 1 & 2|Switch Beam|Brake Pad|TNMD
+SWITCH 1 & 2|Switch Beam|GEAR MOTOR|TNMD
+SWITCH 1 & 2|Gearbox assembly|Primary to secondary gearbox drive shaft couplings|TNMD
+SWITCH 1 & 2|Gearbox assembly|Chain coupling (Attach Model Chain)|TNMD
+SWITCH 1 & 2|Gearbox assembly|Reduction Gear SW1 GEARBOX 1 (PRIMARY) HITACHI TYPE - SCR-565 - BW X 2 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 70L WEIGHT - 1700KG MFG NO - 62582 SERIAL NO - 019|TNMD
+SWITCH 1 & 2|Gearbox assembly|GEARBOX 2 HITACHI TYPE - SCR-275 - W X 1 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 35L WEIGHT - 1100KG MFG NO - 62582 SERIAL NO - 020|TNMD
+SWITCH 1 & 2|Gearbox assembly|GEARBOX 3 HITACHI TYPE - SCR-275 - W X 1 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 35L WEIGHT - 1100KG MFG NO - 62582 SERIAL NO - 021|TNMD
+SWITCH 1 & 2|Gearbox assembly|GEARBOX 4 HITACHI TYPE - SCR-275 - W X 1 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 35L WEIGHT - 1100KG MFG NO - 62582 SERIAL NO - 022|TNMD
+SWITCH 1 & 2|Local Control Panel|24VDC White LED Pilot light (TELEMECANIQUE ZBV-B1)|TNMD
+SWITCH 1 & 2|Local Control Panel|24VDC Green LED Pilot light (TELEMECANIQUE ZBV-B3)|TNMD
+SWITCH 1 & 2|Local Control Panel|24VDC Red LED Pilot Light (TELEMECANIQUE ZBV-B3)|TNMD
+SWITCH 1 & 2|Local Control Panel|24VDC Buzzer, Waterproof (IDEC IZUMI ANNZ-B10)|TNMD
+SWITCH 1 & 2|Local Control Panel|Emergency Stop Pushbutton, Red Push-Turn to Release (Telemecanique ZBE 102)|TNMD
+SWITCH 1 & 2|Local Control Panel|Pushbutton, Flush Head, Normally Open (Telemecanique ZBE 101)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|100A, 3P, 600V Circuit Breaker (NS 100-160-250)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|63A, 3P, 600V Circuit Breaker (ABB)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|32A, 3P, 600V Circuit Breaker (MERLIN GERMIN)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|10A, 1P, 240V Circuit Breaker (MERLIN GERMIN)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|6A, 2P, 240V Circuit Breaker (MERLIN GERMIN)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Motor S1M Brake Control (HITACHI)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Magnetic Contactor Assembly H35, Forward - Reverse with Thermal Overload (HITACHI) (Brpa Volt coil)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Magnetic Contactor Assembly H20, Forward - Reverse (HITACHI) (Brpa Volt coil)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Magnetic Contactor Assembly H11, Forward - Reverse with Thermal Overload (HITACHI) (Brpa Volt coil)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Compact Fluorescent Light 10W 240Vac (GENERIC)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Anti Condensation Heater 240Vac 25W (GENERIC)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|240VAC Receptacle (GENERIC)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|DC Neutral Relay (Safety Relay) 24Vdc Coil (NIPPON SIGNAL)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|DC Neutral Relay Base (NIPPON SIGNAL)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|General Purpose Under-voltage Relay, 110Vac (OMRON)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Silicon Rectifier (NIPPON SIGNAL) (Attach Input & Output)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|General Purpose Timer, Delay-Off Adjustable (OMRON)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Control Transformer, 240V - 120V, 1000VA (Attach Output)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Switch OFF - ON 240VAC|TNMD
+SWITCH 1 & 2|Fallback Control Panel|2 Position key-switch, 1 N/O and 2 N/C contacts, stay put with key withdrawal on LH (Telemecanique ZBE-101)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Lightning Arrester, TDS 277V 80kA SURGE SUPPRESSOR (ERICO)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Lightning Arrester, 1 PHASE, 50kA 8/2us, 10A SERIES TVSS protector (ERICO)|TNMD
+SWITCH 1 & 2|Fallback Control Panel|Phase Sequence/Failure Relay (ANV)|TNMD
+SWITCH 1 & 2|Electrial Part|Attach Sensor & Limit Switch|TNMD
+SWITCH 3|Switchdeck & RC Beam|Flipper|TNMD
+SWITCH 3|Switchdeck & RC Beam|Flashing Yellow Light (Patlite PSF-220-Y)|TNMD
+SWITCH 3|Switchdeck & RC Beam|Static Blue Light (Patlite PS-220-B)|TNMD
+SWITCH 3|Carriage Including Carriage Wheel|Roller|TNMD
+SWITCH 3|Carriage Including Carriage Wheel|Refill non-rumba hand grease pump reservoir|TNMD
+SWITCH 3|Lockpin|Attach Sensor & Limit Switch on Lockpin|TNMD
+SWITCH 3|Lockpin|Motor Cylinder (COSMIC INDUSTRY) TYPE - BN1T FORM - 0.9J STROKE - 90MM POWER - 1000KG SPEED - 71 / 85 (MM/SEC) RATING - SPECIAL MIN VOLT - 400V /400V CYCLES - 50Hz / 60Hz AMP'S - 40A / 40A INSULATION - E MOTOR - 1.5 kW WEIGHT - 70KG MFG NO - J 2191311|TNMD
+SWITCH 3|Lockpin|3 PHASE BRAKE MOTOR (ECONOSTOP YASKAWA ELECTRIC) TYPE - EELYQ-50 RATING - SPECIAL INS. CLASS - E kW - 1.5 POLES - 4 V - 400 / 400 HZ - 50 / 60 BRG . NO - 6204ZZ / 6204UU SER.NO - 6V53081|TNMD
+SWITCH 3|Switch Beam|Arm guide|TNMD
+SWITCH 3|Switch Beam|Finger plate switch beam|TNMD
+SWITCH 3|Motor|Motor brake|TNMD
+SWITCH 3|Motor|GEAR MOTOR (HITACHI) TYPE - T 0 2 6 POLES - 4 HERTZ - 50 kW - 1.5 RPM - 180 G.F TYPE - MH 438 J GEAR RATIO - 1 : 8 G.NO - U 80329 MFG NO - Y 79163706 DATE - 1997 THREE PHASE INDUCTION MOTOR (HITACHI) 1.5kW Y 79163702|TNMD
+SWITCH 3|Gearbox assembly|Primary to secondary gearbox drive shaft couplings|TNMD
+SWITCH 3|Gearbox assembly|Chain coupling (Attach Model Chain)|TNMD
+SWITCH 3|Gearbox assembly|Reduction Gear SW1 GEARBOX 1 (PRIMARY) HITACHI TYPE - SCR-565 - BW X 2 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 70L WEIGHT - 1700KG MFG NO - 62582 SERIAL NO - 019|TNMD
+SWITCH 3|Gearbox assembly|GEARBOX 2 HITACHI TYPE - SCR-275 - W X 1 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 35L WEIGHT - 1100KG MFG NO - 62582 SERIAL NO - 020|TNMD
+SWITCH 3|Gearbox assembly|GEARBOX 3 HITACHI TYPE - SCR-275 - W X 1 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 35L WEIGHT - 1100KG MFG NO - 62582 SERIAL NO - 021|TNMD
+SWITCH 3|Gearbox assembly|GEARBOX 4 HITACHI TYPE - SCR-275 - W X 1 MOTOR - 15kW GEAR RATIO - 1/50 OIL QTY - 35L WEIGHT - 1100KG MFG NO - 62582 SERIAL NO - 022|TNMD
+SWITCH 3|Local Control Panel|24VDC White LED Pilot light (TELEMECANIQUE ZBV-B1)|TNMD
+SWITCH 3|Local Control Panel|24VDC Green LED Pilot light (TELEMECANIQUE ZBV-B3)|TNMD
+SWITCH 3|Local Control Panel|24VDC Red LED Pilot Light (TELEMECANIQUE ZBV-B3)|TNMD
+SWITCH 3|Local Control Panel|24VDC Buzzer, Waterproof (IDEC IZUMI ANNZ-B10)|TNMD
+SWITCH 3|Local Control Panel|Emergency Stop Pushbutton, Red Push-Turn to Release (Telemecanique ZBE 102)|TNMD
+SWITCH 3|Local Control Panel|Pushbutton, Flush Head, Normally Open (Telemecanique ZBE 101)|TNMD
+SWITCH 3|Fallback Control Panel|100A, 3P, 600V Circuit Breaker (NS 100-160-250)|TNMD
+SWITCH 3|Fallback Control Panel|63A, 3P, 600V Circuit Breaker (ABB)|TNMD
+SWITCH 3|Fallback Control Panel|32A, 3P, 600V Circuit Breaker (MERLIN GERMIN)|TNMD
+SWITCH 3|Fallback Control Panel|10A, 1P, 240V Circuit Breaker (MERLIN GERMIN)|TNMD
+SWITCH 3|Fallback Control Panel|6A, 2P, 240V Circuit Breaker (MERLIN GERMIN)|TNMD
+SWITCH 3|Fallback Control Panel|Motor S1M Brake Control (HITACHI)|TNMD
+SWITCH 3|Fallback Control Panel|Magnetic Contactor Assembly H35, Forward - Reverse with Thermal Overload (HITACHI)|TNMD
+SWITCH 3|Fallback Control Panel|Magnetic Contactor Assembly H20, Forward - Reverse (HITACHI)|TNMD
+SWITCH 3|Fallback Control Panel|Magnetic Contactor Assembly H11, Forward - Reverse with Thermal Overload (HITACHI)|TNMD
+SWITCH 3|Fallback Control Panel|Compact Fluorescent Light 10W 240Vac (GENERIC)|TNMD
+SWITCH 3|Fallback Control Panel|Anti Condensation Heater 240Vac 25W (GENERIC)|TNMD
+SWITCH 3|Fallback Control Panel|240Vac Receptacle (GENERIC)|TNMD
+SWITCH 3|Fallback Control Panel|DC Neutral Relay (Safety Relay) 24Vdc Coil (NIPPON SIGNAL)|TNMD
+SWITCH 3|Fallback Control Panel|DC Neutral Relay Base (NIPPON SIGNAL)|TNMD
+SWITCH 3|Fallback Control Panel|General Purpose Under-voltage Relay, 110Vac (OMRON)|TNMD
+SWITCH 3|Fallback Control Panel|Silicon Rectifier (NIPPON SIGNAL)|TNMD
+SWITCH 3|Fallback Control Panel|General Purpose Timer, Delay-Off Adjustable (OMRON)|TNMD
+SWITCH 3|Fallback Control Panel|Control Transformer, 240V - 120V, 1000VA|TNMD
+SWITCH 3|Fallback Control Panel|Switch OFF - ON 240Vac|TNMD
+SWITCH 3|Fallback Control Panel|2 Position key-switch, 1 N/O and 2 N/C contacts, stay put with key withdrawal on LH (Telemecanique ZBE-101)|TNMD
+SWITCH 3|Fallback Control Panel|Lightning Arrester, TDS 277V 80kA SURGE SUPPRESSOR (ERICO)|TNMD
+SWITCH 3|Fallback Control Panel|Lightning Arrester, 1 PHASE, 50kA 8/2us, 10A SERIES TVSS protector (ERICO)|TNMD
+SWITCH 3|Fallback Control Panel|Phase Sequence/Failure Relay (ANV)|TNMD
+SWITCH 3|Electrial Part|Attach Sensor & Limit Switch|TNMD
+SWITCH 4|Switchdeck & RC Beam|Flipper|TNMD
+SWITCH 4|Carriage Including Carriage Wheel|Roller|TNMD
+SWITCH 4|Lockpin|Attach Sensor & Limit Switch on Lockpin|TNMD
+SWITCH 4|Lockpin|Motor Cylinder (COSMIC INDUSTRY) TYPE - BN1T FORM - 0.9J STROKE - 90MM POWER - 1000KG SPEED - 71 / 85 (MM/SEC) RATING - SPECIAL MIN VOLT - 400V /400V CYCLES - 50Hz / 60Hz AMP'S - 40A / 40A INSULATION - E MOTOR - 1.5 kW WEIGHT - 70KG MFG NO - J 2191311|TNMD
+SWITCH 4|Lockpin|3 PHASE BRAKE MOTOR (ECONOSTOP YASKAWA ELECTRIC) TYPE - EELYQ-50 RATING - SPECIAL INS. CLASS - E kW - 1.5 POLES - 4 V - 400 / 400 HZ - 50 / 60 BRG . NO - 6204ZZ / 6204UU SER.NO - 6V53081|TNMD
+SWITCH 4|Switch Beam|Arm guide|TNMD
+SWITCH 4|Switch Beam|Finger plate switch beam|TNMD
+SWITCH 4|Motor|Motor brake|TNMD
+SWITCH 4|Motor|GEAR MOTOR (HITACHI) TYPE - T 0 2 6 POLES - 4 HERTZ - 50 kW - 1.5 RPM - 180 G.F TYPE - MH 438 J GEAR RATIO - 1 : 8 G.NO - U 80329 MFG NO - Y 79163706 DATE - 1997 THREE PHASE INDUCTION MOTOR (HITACHI) 1.5kW Y 79163702|TNMD
+SWITCH 4|Gearbox assembly|Primary to secondary gearbox drive shaft couplings|TNMD
+SWITCH 4|Gearbox assembly|Chain coupling (Attach Model Chain)|TNMD
+SWITCH 4|Gearbox assembly|Reduction Gear SW1 GEARBOX 1 (PRIMARY) HITACHI TYPE - SCR-800 - BW X 2 MOTOR - 15kW GEAR RATIO - 1/35 OIL QTY - 105L WEIGHT - 2100KG MFG NO - 62646 SERIAL NO - 027|TNMD
+SWITCH 4|Gearbox assembly|GEARBOX 2 HITACHI TYPE - SCR-280 - W X 1 MOTOR - 15kW GEAR RATIO - 1/35 OIL QTY - 43L WEIGHT - 1450KG MFG NO - 62646 SERIAL NO - 028|TNMD
+SWITCH 4|Gearbox assembly|GEARBOX 3 HITACHI TYPE - SCR-280 - W X 1 MOTOR - 15kW GEAR RATIO - 1/35 OIL QTY - 43L WEIGHT - 1450KG MFG NO - 62646 SERIAL NO - 029|TNMD
+SWITCH 4|Gearbox assembly|GEARBOX 3 HITACHI TYPE - SCR-280 - W X 1 MOTOR - 15kW GEAR RATIO - 1/35 OIL QTY - 43L WEIGHT - 1450KG MFG NO - 62646 SERIAL NO - 030|TNMD
+SWITCH 4|Local Control Panel|100A, 3P, 600V Circuit Breaker (NS 100-160-250)|TNMD
+SWITCH 4|Local Control Panel|60A, 3P, 600V Circuit Breaker (F&G PX-100)|TNMD
+SWITCH 4|Local Control Panel|32A, 3P, 600V Circuit Breaker (F&G PX100)|TNMD
+SWITCH 4|Local Control Panel|6A, 1P, 240V Circuit Breaker (MULTI 9 C45N)|TNMD
+SWITCH 4|Local Control Panel|25A, 2P, 240V Circuit Breaker (MERLIN GERIN)|TNMD
+SWITCH 4|Local Control Panel|25A, 2P, 240V Circuit Breaker (MULTI 9 C45N)|TNMD
+SWITCH 4|Local Control Panel|QPS Transformer TYPE - 07331 PH - 1 PRIMARY VOLT - 240 SEC VOLT - 110 CAP - 500VA CYCLE 50HZ : 60HZ PRI AMP - 2.08 SEC AMP - 4.54 SERIAL NO - 181-113-1|TNMD
+SWITCH 4|Local Control Panel|Compact Fluorescent Light 10W 240Vac (HITACHI PM115S-G)|TNMD
+SWITCH 4|Local Control Panel|TIMER RELAY (AH-3)|TNMD
+SWITCH 4|Local Control Panel|RELAY (OMRON MK2P-I|TNMD
+SWITCH 4|Local Control Panel|Auxillary Contact (SC-4-0) Contact Block Aux Contact (SZ-A11)|TNMD
+SWITCH 4|Local Control Panel|Emergency Stop Pushbutton, Red Push-Turn to Release (Telemecanique ZBE 102)|TNMD
+SWITCH 4|Local Control Panel|Pushbutton, Flush Head, Normally Open (Telemecanique ZBE 101)|TNMD
+SWITCH 4|Local Control Panel|24VDC Red LED Pilot Light (TELEMECANIQUE ZBV-G4)|TNMD
+SWITCH 4|Local Control Panel|24VDC Yellow LED Pilot Light (TELEMECANIQUE ZBV-G5)|TNMD
+SWITCH 4|Local Control Panel|24VDC Blue LED Pilot Light (TELEMECANIQUE ZBV-G1)|TNMD
+SWITCH 4|Local Control Panel|24VDC Green LED Pilot Light (TELEMECANIQUE ZBV-G3)|TNMD
+SWITCH 4|Local Control Panel|2 Position key-switch, 1 N/O and 2 N/C contacts, stay put with key withdrawal on LH (Telemecanique ZBE-101)|TNMD
+SWITCH 4|FALLBACK PANEL|Magnetic Contactor Assembly H35, Forward - Reverse with Thermal Overload (HITACHI)|TNMD
+SWITCH 4|FALLBACK PANEL|Magnetic Contactor Assembly H20, Forward - Reverse (HITACHI)|TNMD
+SWITCH 4|FALLBACK PANEL|Magnetic Contactor Assembly H11 with Thermal Overload (HITACHI)|TNMD
+SWITCH 4|FALLBACK PANEL|Motor S1M Brake Control (HITACHI)|TNMD
+SWITCH 4|FALLBACK PANEL|AUXILLARY CONTACT|TNMD
+SWITCH 4|FALLBACK PANEL|HOUR METER ( Müller BW70.18 )|TNMD
+SWITCH 4|FALLBACK PANEL|MAGNETIC CONTACTOR (Fuji Electric SC-05)|TNMD
+SWITCH 4|FALLBACK PANEL|RELAY SOCKET (OMRON G7T - 112S 04Z7E7)|TNMD
+SWITCH 4|FALLBACK PANEL|AUXILLARY CONTACT BLOCK (Schneider Electric TeSys LADN04)|TNMD
+SWITCH 4|FALLBACK PANEL|AUXILLARY CONTACT BLOCK (Telemecanique LA1 DN 13 )|TNMD
+SWITCH 4|FALLBACK PANEL|TIMER With Base (OMRON Omron H3CR-A8)|TNMD
+SWITCH 4|FALLBACK PANEL|RELAY CONTACT With Base (NIPPON MK2PN-I)|TNMD
+SWITCH 4|FALLBACK PANEL|Attach Sensor & Limit Switch|TNMD
+SWITCH 5 & 6|Switchdeck & RC Beam|RC Beam|TNMD
+SWITCH 5 & 6|Switchdeck & RC Beam|Stopper And Carriage Way|TNMD
+SWITCH 5 & 6|Carriage Including Carriage Wheel|(Attach Sensor Carriage)|TNMD
+SWITCH 5 & 6|Carriage Including Carriage Wheel|Serial No. 480-0050-0703-A Motor Carriage- Typ: ADE50DD Length- 3 971mm Width- 300mm 400Vac , 3P 1.1 kW SAE 90 Gear Oil|TNMD
+SWITCH 5 & 6|Carriage Including Carriage Wheel|ZBA 80/90A B020 BRAKE|TNMD
+SWITCH 5 & 6|Locking Pin Assembly|(Attach Lockpin Depan)|TNMD
+SWITCH 5 & 6|Locking Pin Assembly|Serial No. 9434 8042 50Hz Hook- 5m 415V - 3P|TNMD
+SWITCH 5 & 6|Locking Pin Assembly|Proximity Sensor PEPPERL FUCHS NBB15-30GM50-WS Part No. 801650|TNMD
+SWITCH 5 & 6|Switch Beam|T-Shaft / T-Coupler|TNMD
+SWITCH 5 & 6|Switch Beam|Pivot|TNMD
+SWITCH 5 & 6|VFD/Inverter Motor|Dedrive Pro 880 50/60Hz 400vac , 3P|TNMD
+SWITCH 5 & 6|Resistor ( Perintang )|Serial No. 232461 Part No. Or Drawing LC729DBR 1.6kW 120 ohm 3.65 amph|TNMD
+SWITCH 5 & 6|Local Control Panel|Schneider CAD32 (Detail Contactor Brpa Volt)|TNMD
+SWITCH 5 & 6|Local Control Panel|Schneider LC1 D09 (Detail Contactor Brpa Volt)|TNMD
+SWITCH 5 & 6|Local Control Panel|Power Supply 110V / 220V (Detail Input & Output)|TNMD
+SWITCH 5 & 6|Local Control Panel|Relay ICE225 5A 24VDC|TNMD
+SWITCH 5 & 6|Local Control Panel|Telemecanique LADN40|TNMD
+SWITCH 5 & 6|Local Control Panel|Telemecanique LADN22|TNMD
+SWITCH 5 & 6|Local Control Panel|Hager L 503 01 10079|TNMD
+SWITCH 5 & 6|Local Control Panel|MERLIN GERIN multi9 NC45a C10|TNMD
+SWITCH 5 & 6|Local Control Panel|MERLIN GERIN multi9 NC45a C6|TNMD
+SWITCH 5 & 6|Local Control Panel|MERLIN GERIN multi9 NC45a C20|TNMD
+SWITCH 5 & 6|Local Control Panel|MAXGUARD Q24TS|TNMD
+SWITCH 5 & 6|Local Control Panel|ABB S 251 1 C6|TNMD
+SWITCH 5 & 6|Local Control Panel|OMRON MY4NGS|TNMD
+SWITCH 5 & 6|Local Control Panel|Schneider IC60N D 16A|TNMD
+SWITCH 5 & 6|Local Control Panel|ABB AX09-30-01|TNMD
+SWITCH 5 & 6|Local Control Panel|MERLIN GERIN multi9 NC45a C60N|TNMD
+SWITCH 5 & 6|Local Control Panel|Telemecanique GV2-LE 16 14A|TNMD
+SWITCH 5 & 6|Local Control Panel|Telemecanique LAD04 LA1 DN04|TNMD
+SWITCH 5 & 6|Local Control Panel|MAX GUARD MB63-1 C20|TNMD
+SWITCH 5 & 6|Local Control Panel|OMRON MY2N|TNMD
+SWITCH 5 & 6|Local Control Panel|LC1 D25 (Detail Contactor Brpa Volt)|TNMD
+SWITCH 5 & 6|Local Control Panel|CAD 50 (Detail Contactor Brpa Volt)|TNMD
+SWITCH 5 & 6|Local Control Panel|C60N (D63)|TNMD
+SWITCH 5 & 6|Local Control Panel|REMOTE AND LOCAL PANEL|TNMD
+SWITCH 5 & 6|Local Control Panel|Q24TS|TNMD
+SWITCH 5 & 6|Local Control Panel|LIGHT INDICATOR ZBV-G3|TNMD
+SWITCH 5 & 6|Local Control Panel|LIGHT INDICATOR ZBV-G4|TNMD
+SWITCH 5 & 6|Local Control Panel|SWING BEAM BUTTON ZBE-101|TNMD
+SWITCH 5 & 6|Local Control Panel|MOTOR KEY ZB2-BE101|TNMD
+SWITCH 5 & 6|Local Control Panel|EMERGENCY BUTTON ZB2-BE102|TNMD
+SWITCH 5 & 6|Local Control Panel|TRANSFORMER 240V-110V|TNMD
+SWITCH 5 & 6|Local Control Panel|Power Supply 220VAC - 24VDC 2.1 Amp|TNMD
+SWITCH 5 & 6|Local Control Panel|RELAY MY2N 24VDC|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Ventilation Fan Brand : ORIX Specifications : 119mm, standard. Speed, 1 phase, 230 Vac, 16watt|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Panel Switchdeck|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Panel local control|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Panel Fall Back Control|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Diagnostic Panel|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Connector Terminal Block|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Junction Box|TNMD
+SWITCH 7 & 8|Switchdeck & RC Beam|Emergency Stop Push Button|TNMD
+SWITCH 7 & 8|Carriage Including Carriage Wheel|Carriage|TNMD
+SWITCH 7 & 8|Carriage Including Carriage Wheel|Roller carriage|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|Lockpin|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|Limit Switch Brand : Omron Type : D4A-6501N|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|3 Phase Induction Motor 1.5 kW Brand : Tsubaki Specifications : volt 400-440, frequency 50-60Hz, current 2.9- 3.2A, speed 1430- 1720 r/min|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|Cylinder lockpin|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|Housing lockpin|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|3-Phase Brake Motor Brand : Tsubaki Specifications : VDC 171-207, IDC 0.13-0.17A, TORQUE 14.7N.m|TNMD
+SWITCH 7 & 8|Locking Pin Assembly|Bracket Mounting Lockpin|TNMD
+SWITCH 7 & 8|Switch Beam|Flipper|TNMD
+SWITCH 7 & 8|Switch Beam|Flipper|TNMD
+SWITCH 7 & 8|Switch Beam|Top Finger Plate|TNMD
+SWITCH 7 & 8|Switch Beam|Side Finger Plate|TNMD
+SWITCH 7 & 8|Switch Beam|T-Shaft - Nipple Point Grease|TNMD
+SWITCH 7 & 8|Switch Beam|T-Shaft - Nipple Point Grease|TNMD
+SWITCH 7 & 8|Switch Beam|Pivot|TNMD
+SWITCH 7 & 8|Switch Beam|Pivot Bearing|TNMD
+SWITCH 7 & 8|Switch Beam|Identification Plate Pivot|TNMD
+SWITCH 7 & 8|Local Control Panel|Thermostat switch Brand : DEMEX Specifications : Heat Process, 1NC , Cool Process, 1NO|TNMD
+SWITCH 7 & 8|Local Control Panel|Push button Specifications : Momentary, Round Flush 1NO Black|TNMD
+SWITCH 7 & 8|Local Control Panel|Selector Key Switch Specifications : 2-Pos Left Key Withdraw 1NO, diameter 22mm|TNMD
+SWITCH 7 & 8|Local Control Panel|Pilot Lamp Specifications : Round Flush, Without Lamp, White and Amber|TNMD
+SWITCH 7 & 8|Local Control Panel|Pilot Lamp Specifications : Round Flush, Without Lamp, White and Amber|TNMD
+SWITCH 7 & 8|Local Control Panel|Emergency Stop Push Button Specifications : Push Lock Turn Reset 2NC Red, diameter 22mm|TNMD
+SWITCH 7 & 8|Local Control Panel|Power supply unit Brand : Meanwell Specifications : 120/230VAC 24VDC, 20A|TNMD
+SWITCH 7 & 8|Local Control Panel|Auxiliary Switch (ChangeOver) Brand : MERLIN GERIN Specifications : Used for MCCB , OF/SD/SDE/SDV|TNMD
+SWITCH 7 & 8|Local Control Panel|MCCB Compact NS 100L Brand: MERLIN GERIN Specifications : 4 pole 63A 150kA|TNMD
+SWITCH 7 & 8|Local Control Panel|MCCB Compact NS 100L Brand: MERLIN GERIN Specifications : 4 pole 63A 150kA|TNMD
+SWITCH 7 & 8|Local Control Panel|MCB C60N Brand : MERLIN GERIN Specifications : 2 pole, 6A, 10kA, C-Curve, 3 pole, 40A, 10kA, D-curve, 4 pole, 2A, 10kA, C-Curve|TNMD
+SWITCH 7 & 8|Local Control Panel|MCB C60N Brand : MERLIN GERIN Specifications : 2 pole, 6A, 10kA, C-Curve, 3 pole, 40A, 10kA, D-curve, 4 pole, 2A, 10kA, C-Curve|TNMD
+SWITCH 7 & 8|Local Control Panel|MCB C60N Brand : MERLIN GERIN Specifications : 2 pole, 6A, 10kA, C-Curve, 3 pole, 40A, 10kA, D-curve, 4 pole, 2A, 10kA, C-Curve|TNMD
+SWITCH 7 & 8|Local Control Panel|MCB C60H Brand : MERLIN GERIN Specifications: 2Pole, 40A, 15kA, C-Curve|TNMD
+SWITCH 7 & 8|Fallback Control Panel|PRD65r Surge Arresters Brand : MERLIN GERIN Specifications : 3Pole+N 230/400Vac 65kA, 1Pole+N 230/400Vac 65kA|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Ammeter Selector Switch Brand : Salzer Specifications : Off, R, Y and B|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Voltmeter Cam Switch Brand : SALZER Specifications : Off, RY, YB, BR, RN ,YN and BN|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Current Transformer (SES) Brand : SES Specifications: : with mouting bracket|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Contactor (K1) Brand : TELEMECANIQUE Specifications : 3 Pole 32A 24VDC 1NO/1NC Aux, 3 Pole 50A 24 VDC 1NO/NC Aux (Pic Atas & Bwh Barang x sama) (Attach Detail)|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Contactor (K1) Brand : TELEMECANIQUE Specifications : 3 Pole 32A 24VDC 1NO/1NC Aux, 3 Pole 50A 24 VDC 1NO/NC Aux (Pic Atas & Bwh Barang x sama) (Attach Detail)|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Contactor (KM1, KM2) Brand : TELEMECANIQUE LC1D50A Specifications : 3 Pole 50A 24 VDC 1NO/NC Aux (Attach Brpa volt Contactor)|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Zelio Control Voltage Measurement Relay (VVR1) Brand : TELEMECANIQUE Specifications : Over/Under Voltage 50-500Vac 1-30s (Detail Model)|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Overload Relay (QM1, QM2) Brand : TELEMECANIQUE LRD 06 Specifications: : 4A TeSys D Class 20 1NO/NC Aux|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Contactor Brand : TELEMECANIQUE Specifications: 3 Pole 6A 24VDC 1NC Aux (Pic Atas & Bwh Barang x sama) (Attach Detail)|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Contactor Brand : TELEMECANIQUE Specifications: 3 Pole 6A 24VDC 1NC Aux (Pic Atas & Bwh Barang x sama) (Attach Detail)|TNMD
+SWITCH 7 & 8|Fallback Control Panel|Contactor Brand : TELEMECANIQUE Specifications: 3 Pole 6A 24VDC 1NC Aux (Pic Atas & Bwh Barang x sama) (Attach Detail)|TNMD
+SWITCH 7 & 8|Winch Assembly|3 Phase Motor SEW-EURODRIVE DRN160L4/BE20HR/FG/C 50 Hz 15kW 1474 r/min|TNMD
+SWITCH 7 & 8|Winch Assembly|Rotary Limit Switch (Attach Detail)|TNMD
+SWITCH 7 & 8|Winch Assembly|Brake Motor|TNMD
+SWITCH 7 & 8|Winch Assembly|Winch Drum|TNMD
+SWITCH 7 & 8|VFD/Inverter Motor|Variable Speed Drive / Variable Frequency Drive Brand : ABB Specifications: (Attach Detail)|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Power Supply Unit (PSU) (Attach Detail)|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Central Processing Unit (CPU) (Attach Detail)|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Digital Input (DI 1 DI 2) (Attach Detail)|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Digital Output (DO 1 DO 2) (Attach Detail)|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Failsafe Digital Inputs (FDI) (Attach Detail)|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Failsafe Digital Outputs (FDO) Brand : Siemens Serial.no : 6ES7 326 -2BF01-0AB0|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Failsafe Digital Outputs (FDO) Brand : Siemens Serial.no : 6ES7 326 -2BF01-0AB1|TNMD
+SWITCH 7 & 8|P.L.C|PLC-Base Plate|TNMD
+SWITCH 7 & 8|Wire rope assembly|Wire Rope Brand : GOFORTH Specifications : Bottom wire rope 3P comes with CROSBY open SWAG (13970mm - length), Top wire rope 3P comes with CROSBY open SWAG (7350 mm - length)|TNMD
+SWITCH 7 & 8|Wire rope assembly|Wire Rope Brand : GOFORTH Specifications : Bottom wire rope 3P comes with CROSBY open SWAG (13970mm - length), Top wire rope 3P comes with CROSBY open SWAG (7350 mm - length)|TNMD
+SWITCH 7 & 8|Wire rope assembly|Turnbuckle Brand : CROSBY Serial.No : HG 2771-1/4|TNMD
+SWITCH 7 & 8|Wire rope assembly|Winch Connecting Plate|TNMD
+SWITCH 7 & 8|Wire rope assembly|Winch Roller|TNMD
+SWITCH 7 & 8|Wire rope assembly|Return Sheave|TNMD
+SWITCH 7 & 8|Guidance truck|Track Roller|TNMD
+SWITCH 7 & 8|Guidance truck|Track Roller|TNMD
+SWITCH 7 & 8|Guidance truck|Plate Sensor|TNMD
+SWITCH 7 & 8|Guidance truck|Proximity Sensor (Attach Model)|TNMD
+SWITCH 7 & 8|Guidance truck|Proximity Sensor (Attach Model)|TNMD
+SWITCH 7 & 8|Guidance truck|Stopper|TNMD
+SWITCH 7 & 8|Inner / Outer link beam|Inner link beam|TNMD
+SWITCH 7 & 8|Inner / Outer link beam|Outer link beam|TNMD
+Powerrail|Insulator assembly|Insulator|TNMD
+Powerrail|Insulator assembly|Support bracket mainline|TNMD
+Powerrail|Insulator assembly|Support bracket butterfly (mid angker)|TNMD
+Powerrail|Insulator assembly|Support bracket ramp (Angle 3/5 degree)|TNMD
+Powerrail|Rail|Cover board|TNMD
+Powerrail|Rail|Connection power rail|TNMD
+Powerrail|Rail|Expansion joint|TNMD
+Powerrail|Electrical Joint|Heavy duty industrial cable lug|TNMD
+Powerrail|Electrical Joint|Heavy duty bellmouthed cable lug|TNMD
+Powerrail|Electrical Joint|Heavy duty bellmouthed cable lug (Switch)|TNMD
+GUIDEWAY BEAM STRUCTURE|Expended Metal|CHECKER PLATE LENGTH 123.5CM x WIDE 245.8CM|TNMD
+GUIDEWAY BEAM STRUCTURE|Bridge|Skru Bridge & Nut|TNMD
+GUIDEWAY BEAM STRUCTURE|Bracket Horizontal and Vertical|Bracket Horizontal HILTI MQ-41 HDG PLUS C-CHANNEL|TNMD
+GUIDEWAY BEAM STRUCTURE|nan|Bracket vertical HILTI MQP-21-72 CHANNEL FOOT|TNMD
+GUIDEWAY BEAM STRUCTURE|Expended Metal|Center Walkway (113cm x 125.5cm)|TNMD
+GUIDEWAY BEAM|Beam|Expansion joint plate|TNMD
+GUIDEWAY BEAM|Beam|Buffer Stop|TNMD
+GUIDEWAY BEAM|Finger Plate|Top plate 60mm|TNMD
+GUIDEWAY BEAM|Finger Plate|Side plate 60mm|TNMD
+GUIDEWAY BEAM|Finger Plate|Top plate 30mm|TNMD
+GUIDEWAY BEAM|Finger Plate|Side plate 30mm|TNMD
+GUIDEWAY BEAM|Finger Plate|Top plate Scomi|TNMD
+GUIDEWAY BEAM|Finger Plate|Side plate Scomi|TNMD
+GUIDEWAY BEAM|Earthing plate|Earthing bracket|TNMD
+GUIDEWAY BEAM|Earthing plate|Earthing Rail|TNMD
+GUIDEWAY BEAM|Earthing plate|Earthing poket|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB 15A ABS 33C|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB 30A BS 32C|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL CONTACTOR MC-18A (Coil Brpa Volt)|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL CONTACTOR MC-22B (Coil Brpa Volt)|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL CONTACTOR MD-60A DC (Coil Brpa Volt)|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|FUSE HOLDER HY-F15 DC 24V 10A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|OMRON RELAY 3A MY4N-GS-24 VDC|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|OMRON RELAY 3A MY4N-GS-240 VAC|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|OMRON RELAY 5A G2R-2-SN 24 VDC|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|INVERTER LSLV10075S100-4EXFNS LS S100|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|POWERBANK DV 24V 62.5A MODEL BK 1500-24|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|THERMOSTAT FAN RUN ELECTRIC RTM-90F25 250V 5A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|FAN NMB 11938KA-24L-EL 0.40A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|MENNEKES SOCKET 3P+N 32A IP-67 TYPE 5608A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|SCHNEIDER SOCKET OUTLET 13A TYPE 56C313|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|POWER INVERTER RS PRO DC TO AC 4000W|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|LG DUAL INVERTER AIR CONDITIONER 1HP|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|NETWORK VIDEO RECORDER XRN-8150|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|TES SMART 1X2 SPLITTER|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|NETWORK CAMERA (XNO-6020R) DC12|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|IVIEWKOREA MONITER DISPLAY KCC-REM-IV0-IV IV240|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB ABS 202C 150A 1000V|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB ABS 52C 50A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB ABS 32C 30A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB ASB 33C 15A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL CONTACTOR DC MD100A LS (250Vdc 100A)|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL CONTACTOR DC MD60A LS (250Vdc 60A)|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL CONTACTOR MC40A LS (Coil Brpa Volt)|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB BS32C 10A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCB LS 30A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCB LS 10A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCB LS 5A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|TEMPERATURE CONTROLLER AUTONICS TC4S|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|SWITCHING POWER SUPPLY LY2N DC24V|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|SWITCHING POWER SD15 24VDC TO 12VDC|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|TEMPERATURE CONTROLLER AUTONICS MODEL M4T|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|SWITCHING POWER SUPPLY 240AC TO 24VDC DS100|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|XGT PLC EGP-DC24 PROGRAMABLE LOGIC BOARD|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|METASOL MCCB ABS 202C 250A|TNMD
+Track Maintenance Vehicle 3|Electrical Appliance|All Sensor Brand Autonic|TNMD
+Track Maintenance Vehicle 3|TMV Genset|STARTER GENSET DENSO 12V PART NO. 17381-63015|TNMD
+Track Maintenance Vehicle 3|TMV Genset|ALTERNATOR GENSET DENSO 12V 16404 -|TNMD
+Track Maintenance Vehicle 3|TMV Genset|GENSET OIL FILTER PART NO. 16414-32433|TNMD
+Track Maintenance Vehicle 3|TMV Genset|ENGINE GENSET FAN BELT PART NO. 17123-97012|TNMD
+Track Maintenance Vehicle 3|TMV Genset|ENGINE GENSET FUEL FILTER PART NO. 15521-43161|TNMD
+Track Maintenance Vehicle 3|Engine System|DIESEL ENGINE MODEL QSM11 10.8L|TNMD
+Track Maintenance Vehicle 3|Engine System|ALTERNATOR MMV PRESTOLITE 28V 160A|TNMD
+Track Maintenance Vehicle 3|Engine System|STARTER ENGINE PRESTOLITE ELECTRIC 24V 8.5kW|TNMD
+Track Maintenance Vehicle 3|Engine System|ENGINE AIR COMPRESSOR MODEL CP2107 BRAND CUMMINS|TNMD
+Track Maintenance Vehicle 3|Engine System|ENGINE MMV BELTING BRAND CUMMINS 3290142X-PK1820|TNMD
+Track Maintenance Vehicle 3|Engine System|MMV FUEL FILTER FLEETGUARD FS1000 CUMMINS|TNMD
+Track Maintenance Vehicle 3|Engine System|MMV OIL FILTER ENGINE FLEETGUARD KF114000NN CUMMINS|TNMD
+Track Maintenance Vehicle 3|Engine System|MMV ENGINE COOLANT FILTER FLEETGUARD WF2075 CUMMINS|TNMD
+Track Maintenance Vehicle 3|Engine System|DIESEL TANK 600L|TNMD
+Track Maintenance Vehicle 3|Engine System|Fuel System 3090942 3417677/Z003 19101 071 CHN|TNMD
+Track Maintenance Vehicle 3|Battery|BATTERY GENSET 12V N702L|TNMD
+Track Maintenance Vehicle 3|Battery|BATTERY MMV EJ122500 12V250AH|TNMD
+Track Maintenance Vehicle 3|Engine Coolant System|ENGINE BUILT IN WATER PUMP - UNKNOWN SPECS|TNMD
+Track Maintenance Vehicle 3|Engine Coolant System|RADIATOR AND COOLING FAN - UNKOWN SPECS|TNMD
+Track Maintenance Vehicle 3|Engine Coolant System|COOLANT SPARE TANK|TNMD
+Track Maintenance Vehicle 3|Engine Coolant System|ENGINE EXHAUST SYSTEM - UKNOWN SPECS|TNMD
+Track Maintenance Vehicle 3|Hydraulic Pump|HYDRAULIC DRIVING MOTOR MODEL SAI BVFK3AR-1250|TNMD
+Track Maintenance Vehicle 3|Hydraulic Pump|HYDRAULIC PUMP KAWASAKI K5V200DTP|TNMD
+Track Maintenance Vehicle 3|Hydraulic Pump|HYDRAULIC PUMP GEARBOX BRAND STIEBEL TYPE 4380.R7.09905|TNMD
+Track Maintenance Vehicle 3|Hydraulic Pump|HYDRAULIC MOTOR PUMP BRAND HIGEN 3 PHASE INDUCTION MOTOR KMH-10-H-E8 10HP 7.5kW|TNMD
+Track Maintenance Vehicle 3|Hydraulic Pump|HYDRAULIC PUMP BRAND YUKEN A3H16-LR01KK-10|TNMD
+Track Maintenance Vehicle 3|Guide Wheel|NEXEN TIRE 4.00-8 MODEL SOUNDPRO|TNMD
+Track Maintenance Vehicle 3|Load Wheel|NEXEN TIRE 23X-110-12 8.00G MODEL CBX|TNMD
+Track Maintenance Vehicle 3|Vehicle Body|Seat Workcar|TNMD
+Track Maintenance Vehicle 3|Vehicle Body|MAIN BODY KSD 3503 ROLLED STEEL MATERIAL SS400|TNMD
+Track Maintenance Vehicle 3|Vehicle Body|CHASSIS KSD 3503 ROLLED STEEL MATERIAL SS400 ( Skru Frame Allen Key Size 6)|TNMD
+Track Maintenance Vehicle 3|Vehicle Body|WHEEL AXIS KSD 3752 CARBON STEEL MATERIAL SCM440|TNMD
+Track Maintenance Vehicle 3|Panel Drive|SAMHO ELECTRONIC ( ENGINE FUEL)|TNMD
+Track Maintenance Vehicle 3|Panel Drive|KOINOX NF30-BM3C ( PUSH BUTTON)|TNMD
+Track Maintenance Vehicle 3|Panel Drive|DWT-6216 (TOGGLE SWITCH)|TNMD
+Track Maintenance Vehicle 3|Panel Drive|DWT-6316MG (TOGGLE SWITCH)|TNMD
+Track Maintenance Vehicle 3|Panel Drive|MRA-ARIDOR KTL-SU02033-1400E (EMG BUTTON)|TNMD
+Track Maintenance Vehicle 3|Panel Drive|INDICATOR H5X19 85Z03|TNMD
+Track Maintenance Vehicle 3|Panel Drive|INDICATOR 5L128B 8L625|TNMD
+Track Maintenance Vehicle 3|Panel Drive|(Attach Level Throttle Minyak, Key start workcar, Button Idel, work semua tu)|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|KOINOX NF25-S3 ( SELECTOR SWITCH )|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|KOINOX NF30-BM3C ( PUSH BUTTON )|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|KOINOX NF25-S2 ( SELECTOR SWITCH )|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|DWT - 6216 ( TOGGLE SWITCH )|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|KC-24D-3103 ( SELECTOR SWITCH )|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|MRA-ARIDOR KTL-SU02033-14004E (EMG BUTTON)|TNMD
+Track Maintenance Vehicle 3|Panel Trailer|KOINOX KH-3081EB (HORN)|TNMD
+Track Maintenance Vehicle 3|Brake System|Type DB-3020 AFS|TNMD
+Track Maintenance Vehicle 3|Crane|SCHNEIDER ELECTRIC ZBE-101|TNMD
+Track Maintenance Vehicle 3|Crane|HETRONIC M5-00068|TNMD
+Track Maintenance Vehicle 3|Crane|HOOK EZ1598|TNMD
+Track Maintenance Vehicle 3|Crane|PALFINGER PK15500|TNMD
+Track Maintenance Vehicle 3|Outrigger|VERTICAL|TNMD
+Track Maintenance Vehicle 3|Outrigger|HORIZONTAL|TNMD
+Track Maintenance Vehicle 3|Outrigger|SENSOR AUTONICS PRDL18-14DP|TNMD
+Track Maintenance Vehicle 1|Battery|Brand: Centrury 12V CMBW 002627832|TNMD
+Track Maintenance Vehicle 1|Brake System|All Parts Brake System|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|EPS MOULDED CASE CIRCUIT BREAKER HM1-100 100A|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|ABB S203 C50|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|MAX GUARD MB63-1 C32|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|FG NFIN 63/0.3|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|ABL SURSUM C6 1C 5.0M|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|ABB SH 201 C6|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|MAX GUARD MB63-1 C20|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|MAX GUARD MB63-1 C32|TNMD
+Track Maintenance Vehicle 1|Electrical Appliance|Schneider iK60N C20A|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|Engine MMV1|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|Starter engine (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|Alternator engine (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|Belting Engine MMV1|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|BOSCH Injection Pump Diesel 76530640|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|Oil Filter MMV1|TNMD
+Track Maintenance Vehicle 1|Engine Fuel System|Fuel filter engine MMV1 FILTON FF-731|TNMD
+Track Maintenance Vehicle 1|Genset|Alternator DENSO 12V 7923-77208|TNMD
+Track Maintenance Vehicle 1|Genset|Starter YANMAR 12V WS70-044P|TNMD
+Track Maintenance Vehicle 1|Genset|Mikro Earth Leakage Relay S/No. 1187286|TNMD
+Track Maintenance Vehicle 1|Genset|Breaker TERAKASI S160-SCF|TNMD
+Track Maintenance Vehicle 1|Genset|ABB SH 201 C6|TNMD
+Track Maintenance Vehicle 1|Genset|RELAY RCP8 002|TNMD
+Track Maintenance Vehicle 1|Genset|MAX SZ22-C401 (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Genset|MULTITEK LA22D (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Genset|EN 515000 (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Genset|AMICO AB2-102 (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Genset|WATERPUMP SPEC: CYED 1309|TNMD
+Track Maintenance Vehicle 1|Genset|BATTERY AMARON AGG2223|TNMD
+Track Maintenance Vehicle 1|Genset|OIL FITER LE PPON OT-10403 F-7219|TNMD
+Track Maintenance Vehicle 1|Genset|AIR FILTER|TNMD
+Track Maintenance Vehicle 1|Genset|AC GENERATOR SERIAL NO. MDM04110 TYPE MJB 160 MA4|TNMD
+Track Maintenance Vehicle 1|Genset|BELTING BANDO FAN BELT A-47.5|TNMD
+Track Maintenance Vehicle 1|Guide Wheel|APACHI 4.00-8 RIM3.00 Nut 8x8|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|SAUER DANFOSS Serial: No. SK 21379871 CONTROL VALVE HYDRAULIC|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|THROTTLE CONTROL FLEXBALL|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|PRESSURE GEAR HIGH AND LOW|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|HYDRAULIC MOTER OMTS 160|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|Terminal Block Hydraulic|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|Flow Tank Hydraulic|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|Traction Axel Hydraulic|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|Cooller Fan Hydraulic 3 Fan (Attach Model)|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|Tank Hydraulic|TNMD
+Track Maintenance Vehicle 1|Hydraulic Pump|INDUCTION MOTOR FAN HYDRAULIC SERIAL NO. 070760|TNMD
+Track Maintenance Vehicle 1|Load Wheel|APACHI 6.00-9 RIM4.00 Nut 8x8|TNMD
+Track Maintenance Vehicle 1|Vehicle Body|Seat Workcar|TNMD
+Track Maintenance Vehicle 1|Vehicle Body|TRACK MAINTENANCE VEHICLE material: Steel and Aluminum Alloy|TNMD
+Track Maintenance Vehicle 1|Vehicle Body|TRAILER material: Steel and Aluminum Alloy|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|SHINOHAWA MY4N|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|IEC 60947-3 (Attach Model)|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|IDEC AVW W65 (Attach Model)|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|IDEC ASW 0201 (Attach Model)|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|IDEC RU4S-D24|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|IDEC RJ2S-CL|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|HBR RMIA21024VDC|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|Schneider Electric Harmony timing relay RM35 I0 33MB|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|TYPE : LM4201TADDK MODEL : PFXLM4201TADDK|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|Tmax T1G T60|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ABB SH203L|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ABB SH201L|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ABB S201M|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ABB F20C AC|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|S/M MZ-16605|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|MOELLER PLHT-PHLT C100/2|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|PLHT-C100/2|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|YW-EM4 60830 (Attach Model)|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ML 52621|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ET-7060|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|AR22 JR (Attach Model)|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|Multi9 C60 C32|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|Multi9 C60 C20|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|Hager MT 110A B10|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|LS BKN C20|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ABB FH204 AC|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|Nader NDM1-63 C32|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|ABB SH 201 L C20|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|VISOINTECH KST-35N (Attach Model & Gmbr Brg)|TNMD
+Track Maintenance Vehicle 2|Electrical Appliance|THROTTLE PANEL RT100-T-P1(10K)-02(89)-HD15 (Attach Model & Gmbr Brg)|TNMD
+Track Maintenance Vehicle 2|TMV Genset|Brand: DENSO 8-97358062-1 and 428000-2081|TNMD
+Track Maintenance Vehicle 2|TMV Genset|Engine Genset|TNMD
+Track Maintenance Vehicle 2|TMV Genset|Alternator (Attach Model)|TNMD
+Track Maintenance Vehicle 2|TMV Genset|OSK OIL FILTER O-6746 & 8-94391049-0|TNMD
+Track Maintenance Vehicle 2|TMV Genset|OSAKA GENUINE FILTERS 16403-Z7000|TNMD
+Track Maintenance Vehicle 2|TMV Genset|BELTING 8972322380CR|TNMD
+Track Maintenance Vehicle 2|Motor Drive|Tachometer Nanyang Q/JBQG5 model ZYS 110V|TNMD
+Track Maintenance Vehicle 2|Motor Drive|MEGADRIVE type 160-31-Z S/N 4406-23|TNMD
+Track Maintenance Vehicle 2|Motor Drive|MOTOR GEARBOX Dinani RA 512 NF CODE: JEQFSO501000000|TNMD
+Track Maintenance Vehicle 2|Battery|Brand: Centrury 12V 32B 13W|TNMD
+Track Maintenance Vehicle 2|Guide Wheel|GUIDEWHEEL TMV2 AND TRAILER|TNMD
+Track Maintenance Vehicle 2|Load Wheel|MMV- CONTINENTAL CSE-ROBUST SC18 200/75-9/6.00 134 A5|TNMD
+Track Maintenance Vehicle 2|Load Wheel|TRAILER- BERGOUGNAN 21x8-9|TNMD
+Track Maintenance Vehicle 2|Load Wheel|Attach Axle|TNMD
+Track Maintenance Vehicle 2|Vehicle Body|TRACK MAINTENANCE VEHICLE material: Steel and Aluminum Alloy|TNMD
+Track Maintenance Vehicle 2|Vehicle Body|TRAILER material: Steel and Aluminum Alloy|TNMD
+Track Maintenance Vehicle 2|Vehicle Body|Seat Workcar|TNMD
+Track Maintenance Vehicle 2|Brake System|All Parts Brake System|TNMD
+Track Maintenance Vehicle 2|Hydraulic Pump|CRANE MODEL: MICRO M30A 13 SERIAL NO. 0304-1712 (Gmbr bagi Clear)|TNMD
+Track Maintenance Vehicle 2|Hydraulic Pump|OUTRIGGER VERTICAL|TNMD
+Track Maintenance Vehicle 2|Hydraulic Pump|OUTRIGGER HORIZONTAL|TNMD
+Track Maintenance Vehicle 2|Hydraulic Pump|(Attach Motor Pump Hydraulic)|TNMD
+Traverser|Hydraulic|nan|TNMD
+Traverser|Beam Carriage|nan|TNMD
+Traverser|Tranveser beam|nan|TNMD
+Traverser|Electrical Part|nan|TNMD
+Overhead Crane 1 & 2|Hoist and travelling system|nan|TNMD
+Overhead Crane 1 & 2|Electrical System|nan|TNMD
+Overhead Crane 3 & 4|Hoist and travelling system|nan|TNMD
+Overhead Crane 3 & 4|Electrical System|nan|TNMD
+Pedestal Drill|Vee Belts|nan|TNMD
+Pedestal Drill|Pedestal frame|nan|TNMD
+Pedestal Drill|Electric Motor|nan|TNMD
+Pedestal Grinder|Grinding wheel|Grinding stone 8|TNMD
+Pedestal Grinder|Pedestal frame|Steel Frame|TNMD
+Pedestal Grinder|Electric Motor|240VAC Single Phase Electric Motor 0.6Hp 480 Watt|TNMD
+Pedestal Grinder|Electric Motor|Power switch|TNMD
+Compressor 1 & 2|Motor|Siemens (E0270/010755/6 030) (37kW 415V 50Hz) (IEC/EN 60034)|TNMD
+Compressor 1 & 2|Screw Compressor|Atlas Copco oil-injected rotary screw air compressor (TYPE : 1613 9665 82) (SN : 20868) (DRWG : 1613 9665 82)|TNMD
+Compressor 1 & 2|Screw Compressor|Type: OIS K-26 Part No.: 1616 6512 80 Serial No.: A1A40344499 Manufacturer: AIRTEC|TNMD
+Compressor 1 & 2|Hoses|Braided stainless steel hose|TNMD
+Compressor 1 & 2|Condenser|nan|TNMD
+Compressor 1 & 2|Filter|Atlas Copco oil filter 1613 6105 00|TNMD
+Compressor 1 & 2|Filter|Atlas Copco Element Safety Cartridge Part Numbers: 1613 7398 80 and 1613 7407 00 Function: Ensures enhanced air purity in compressed air systems|TNMD
+Compressor 1 & 2|Filter|Filter To remove contaminants like liquid water from the compressed air stream.|TNMD
+Compressor 1 & 2|Air Dry Unit|Atlas Copco Air Dryer (Type : F140 8102344816) (Serial nr : COX726950) (240 V 1 PHASE 50HZ)|TNMD
+Compressor 1 & 2|Electric & Electronic Part|Brand: ABB Model: SACE S1n Poles: 3-pole Rated Current: 125 A Voltage: 500 V AC|TNMD
+Compressor 1 & 2|Electric & Electronic Part|Monitor Part nr : 1900 0710 12 Serial nr : 12101612052|TNMD
+Compressor 1 & 2|Electric & Electronic Part|Emergency Stop Button Siemens IEC 947-5-1 VDE 0660|TNMD
+Compressor 1 & 2|Electric & Electronic Part|Siemens 4am3895-0ar50-0nn2 id nr : 68100272 pri : 400V sec : 230V|TNMD
+Compressor 1 & 2|Electric & Electronic Part|1. Contactors 2. Auxillary Contact 3. Motor Starter Protector (Pecahkan Ikut Model & More Detail)|TNMD
+Compressor 1 & 2|Electric & Electronic Part|Siemens Part Number: 4AJ4601-0FB Primary Voltage: 230V or 115V Secondary Voltage: 24V Power Rating: 16VA (0.016 kVA)|TNMD
+Compressor 1 & 2|Electric & Electronic Part|Siemens Fuse 4A 3NW7 011|TNMD
+Compressor 1 & 2|Tank|Air tank serial nr : YF/12/ 78.5 volume 2000L Safety blown down valve of air receiver tank (Detail Size Thread Valve 3/4 or 1/2)|TNMD
+Compressor 3 & 4|Motor|Siemens E1111/81573 02 (22kW 415V 50Hz)|TNMD
+Compressor 3 & 4|Monitor Compressor|Controlled valve|TNMD
+Compressor 3 & 4|Monitor Compressor|Largo air monitor (sn : 75131134101) (part nm : 1900 0713 75)|TNMD
+Compressor 3 & 4|Monitor Compressor|Pressure meter|TNMD
+Compressor 3 & 4|Monitor Compressor|Safety valve Model : A3W.06 Size : 3/4 Set press : 150 p.s.i|TNMD
+Compressor 3 & 4|Monitor Compressor|Safety blown down valve of air receiver tank (Size Thread tako angin)|TNMD
+Compressor 3 & 4|Air dry Unit|MODEL : ED-34A|TNMD
+Compressor 3 & 4|Filter|Oil filter|TNMD
+Compressor 3 & 4|Electric & Electronic Part|(Detail Contactor)|TNMD
+Compressor 3 & 4|Electric & Electronic Part|Contactor (Detail Contactor)|TNMD
+Compressor 3 & 4|Electric & Electronic Part|Fuse 32Amp|TNMD
+Compressor 3 & 4|Electric & Electronic Part|Transfomer|TNMD
+Compressor 3 & 4|Electric & Electronic Part|RCCB Schneider 60Amp 300mA|TNMD
+Compressor 3 & 4|Electric & Electronic Part|MCCB Hitachi 100A (FXK125-S)|TNMD
+Compressor 3 & 4|Electric & Electronic Part|MCCB Hitachi 60A (FXK125-S)|TNMD
+Compressor 3 & 4|Electric & Electronic Part|AC magnetic contact (Hitachi H50)|TNMD
+Compressor 3 & 4|Electric & Electronic Part|Thermal Overload Relay|TNMD
+Compressor 3 & 4|Electric & Electronic Part|PUSH BUTTON PMC PB-22MB-EA.1|TNMD
+Compressor 3 & 4|Electric & Electronic Part|LED PILOT LAMP SIMATEC AD22B-22DS|TNMD
+Compressor 3 & 4|Hoses|Selector switch|TNMD
+Compressor 5, 6 & 7|Motor|Belting (MITSUBOSHI B-93)|TNMD
+Compressor 5, 6 & 7|Motor|HYUNDAI (7.5kW 10hp) (HL133SR259EKI)|TNMD
+Compressor 5, 6 & 7|Tank|Solenoid valve|TNMD
+Compressor 5, 6 & 7|Tank|Safety valve|TNMD
+Compressor 5, 6 & 7|Tank|Air valve|TNMD
+Compressor 5, 6 & 7|Tank|Tank Model : AR10P MFG : 1204325K Power : 7.5kW Tank Liter : 240L|TNMD
+Compressor 5, 6 & 7|Tank|Meter Pressure|TNMD
+Compressor 5, 6 & 7|Filter|Suction filter ACCP86|TNMD
+Compressor 5, 6 & 7|Hoses|nan|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|AC magnetic contactor HITACHI H20 05A13|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Thermal overload relay HITACHI 04K11|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|AC magnetic contactor HITACHI H10 30K11|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Thermal overload relay HITACHI 24H12|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|MCCB 40amp HITACHI FXK-25-S|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|MCCB 40amp HITACHI FXK-25-S|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|RCCB 40amp MERLIN GERIN|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Transformer Wyes Model : IP-50VA Pri : 415v Sec : 220v|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|MCB C10, C6 HITACHI|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Thermostat Honeywell T6360|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Contactor Metasol MC-22b Thermal Overload Relay Metasol MC-32|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Fuse|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|Selector switch|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|LED PILOT LAMP PUSH BUTTON|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|LED PILOT LAMP SIMATEC AD22B-22DS|TNMD
+Compressor 5, 6 & 7|Electric & Electronic Part|PUSH BUTTON PMC PB-22MB-EA.1|TNMD
+Hydraulic Press|Frame|Brand - OMCN (Italy) Model-ART164R Height-2260mm Width-900mm Weight-1100kg|TNMD
+Hydraulic Press|Hydraulic|Hydraulic Motor - ELMOR MT100-B4 3KW 415V|TNMD
+Hydraulic Press|Hydraulic|Distributor Lever|TNMD
+Hydraulic Press|Hydraulic|Hose - Dunlop HIFLEX, 6015 PSI, 0.5 inch|TNMD
+Hydraulic Press|Hydraulic|Pressure Regulating Valve|TNMD
+Hydraulic Press|Hydraulic|Hydraulic Cylinder|TNMD
+Hydraulic Press|Hydraulic|Pressure Gauge|TNMD
+Hydraulic Press|Electrical Part|DOL Starter|TNMD
+Hydraulic Press|Electrical Part|FIBER Model E55-F63 Monitoring Relay|TNMD
+Hydraulic Press|Electrical Part|ELETTROVALVOLA Voltage Transformer 230/400VAC Input, 24VAC Output|TNMD
+Hydraulic Press|Electrical Part|TAIAN JAYA C-18L AC Magnetic Contactor with TAIAN JAYA overload relay|TNMD
+Bogie Drop Pit|Bogie Drop Pit 1|Rotating Table|TNMD
+Bogie Drop Pit|Bogie Drop Pit 1|Lift Cylinder and Support Frame|TNMD
+Bogie Drop Pit|Bogie Drop Pit 1|Solonoids|TNMD
+Bogie Drop Pit|Bogie Drop Pit 1|Hydraulic Parts|TNMD
+Bogie Drop Pit|Bogie Drop Pit 1|Electric & Electronic Parts|TNMD
+Bogie Drop Pit|Bogie Drop Pit 2|Lift Cylinder and Support Frame|TNMD
+Bogie Drop Pit|Bogie Drop Pit 2|Hydraulic System|TNMD
+Bogie Drop Pit|Bogie Drop Pit 2|Electric & Electronic Parts|TNMD
+Bogie Test Machine|Hydraulic|Bosch Rexroth CDT3-ME6-50-36-200-F Hydraulic Cylinder|TNMD
+Bogie Test Machine|Motor|BRANCO 22kw BR180L, 3 phase 415 (Roller Motor)|TNMD
+Bogie Test Machine|Motor|BRANCO 22kw BR180L, 3 phase 415 (Gear Motor)|TNMD
+Bogie Test Machine|Moving Parts|Steel Roller|TNMD
+Bogie Test Machine|Moving Parts|"Roller Chain Pitch =5/8"", lenght 3194mm TBD"|TNMD
+Bogie Test Machine|Moving Parts|Pillow Block UCP310 (set screw)|TNMD
+Bogie Test Machine|Moving Parts|V belt BANDO SPZ1537 LW|TNMD
+Bogie Test Machine|Moving Parts|V belt BANDO SPZ1462|TNMD
+Bogie Test Machine|Electrical System|DELTA C2000 VFD Motor Inverter (Gear Motor)|TNMD
+Bogie Test Machine|Electrical System|DELTA C2000 VFD Motor Inverter (Roller Motor)|TNMD
+Bogie Test Machine|Electrical System|Motor Contactor Brand : Fuji Electric 240VAC Model : SC-N3|TNMD
+Bogie Test Machine|Electrical System|Main Circuit Breaker Terasaki S160-SCF 100A|TNMD
+Bogie Test Machine|Electrical System|MW MEAN WELL DR-110/240 VAC input, 24 VDC output Power Supply|TNMD
+Bogie Test Machine|Electrical System|HUCHOO SN04-N Inductive Proximity Sensor 10-30V|TNMD
+Bogie Test Machine|Electrical System|F&C Proximity Switch F3N-18TN05-N|TNMD
+Center Lathe Machine|Vee Belts|VBELT A1854|TNMD
+Center Lathe Machine|Bed/Lead Screws|nan|TNMD
+Center Lathe Machine|Saddle|nan|TNMD
+Center Lathe Machine|Tool Post|nan|TNMD
+Center Lathe Machine|Chuck|nan|TNMD
+AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|GUIDE TRACK W = 32mm H = 36mm L = 12m|TNMD
+AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|BASE HOLDING GUIDE TRACK Ø = 125mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|LIMIT STOP BUFFER Ø = 50 mm H = 30 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|CASTOR ROLLER Ø = 130mm W = 72mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Motion rails trimming|DRIVE UNIT OC-motor 0,75 kW, 230 / 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|STORM PROTECTION 24V|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|PROXIMITY SENSOR Proximity switch 6 m cable, M 18 IG-3010-BPKG, 10-36 V / DC, inductive closer contact|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|LIGHT BARRIER (TX/RX) Light barrier TLR-3-30-06, receiver with 30 m cable Light barrier TLT-5-30-06, emitter with 30m cable|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|DIGITAL SIGN BOARD TFO14-8X48-R AC 220V, 50Hz S/N 18012070036 15 x 70 cm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|EMERGENCY STOP - EXTERNAL FAK-R/V/KC 010/IY|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|EMERGENCY STOP - BOARD PANEL|TNMD
+AUTOMATIC TRAIN WASH PLANT|Safety devices|TRAFFIC LIGHT -2-lights signal traffic light red / green, LED, 230 V -3-lights signal traffic light, green / red / white, LED 230 V|TNMD
+AUTOMATIC TRAIN WASH PLANT|Light barriers|LIGHT BARRIER (TX/RX) Light barrier TLR-3-30-06, receiver with 30 m cable Light barrier TLT-5-30-06, emitter with 30m cable|TNMD
+AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinder|HORIZONTAL CYLINDER Full brush shell 300 x 350 mm dense|TNMD
+AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinder|Spraying pipe for under-floor|TNMD
+AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinder|DRIVE UNIT - CYLINDER OC-motor 1,5 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|SWITCHBOARD PLANT PANEL SYSTEM TYPE : TRAINWASH C5400 400V 3/N/PE~50Hz, 48kW, 85A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|FRESH WATER STORAGE TANK 2,000L|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|WATER SYSTEM|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|FLOW PIPE 28 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|FLOW PIPE 50 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|TE3-100P WATER RECLAIM SYSTEM|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|CARBON FILTER VESSEL|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|AIR RELIEF VALVE (Brpa Bar)|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|DRAIN VALVE|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|WATER CONNECTION|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|DOUBLE WATER NOZZLE R ¼ / 􀇪, 60°|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|Spraying pipe complete|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|NOZZLES|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|"HP-flat jet nozzle ¼"", 39,58 l/min, 100 bar, 60°"|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|"Flat jet nozzle ¼"" 1,9 l/min 3 bar 60°"|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|"Flat jet nozzle ¼"", 5,81 l/min, 3 bar, 60°"|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|Pressure tube, nominal diameter 32-5|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|"Solenoid valve 5281 2/2 DN32 1¼"" 24 V"|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|Level sensor NVS 110.4 PP with 4 cable weights|TNMD
+AUTOMATIC TRAIN WASH PLANT|Water system|Electric Actuator 24DC, 2A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Switchboard plant|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Distance sleeve 6,2 x 20 x 19 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Key for switchgear cabinet size 5|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Earthing strip 300/16 mm 5S|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|End terminal 6 mm, grey|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Two-tier terminal 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|End plate terminal|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Two-tier terminal 4cinductors 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Terminal, 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Terminal with jumper 2,5 mm² double|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Terminal with jumper, 2,5 mm², triple|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Two-tier terminal 2,5 mm² ye/gn|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Feed-through terminal / 2 conductors 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Protective conductor terminal 2 conductor 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Universal terminal 35 mm² UK 35|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Protective conductor terminal 35 mm² USLKG35|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Protective conductor 95 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Main switch emergency stop|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Emergency stop button M22-PV|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Selection button M22-WR|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Fastening adaptor M22-A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Contact element button M22-CK 10|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Contact element push button M22-CK 01|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Secondary shield support M22SST- X|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Auxiliary contactor 24 V DC CA3SK11BD|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Power contactor 24 V DC LP1K0610BD3|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Contactor 24 V 5,5KW DC LP1K1210BD3|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Reversing contactor 24 V DC 2,2 kW LP2K0610BD3|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Light barrier, amplifier relay 24 V|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Level device VNV-E 24 V DC|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Gripping relay|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Emergency-stop shut off relay 24 V DC|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Motor inductor VW3 SKMD 100 I 010UA2 A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Frequency transformer 1500 W / 3 x 230 V, ATV 312 HU15M2|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Electronic fuse 24 V / DC, adjustable 4, 6, 8 , 10 A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Motor protection switch 1,6 - 2,5 A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Motor protection switch PKZMO 2,5 - 4 / NHI-E-10|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Motor protection switch 6,3 - 10 A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Motor protection switch PKZM0 1 - 1,6 / NHI-E-10|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Supply block 63A BTC25IC for motor protection switch|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Relay, soft start, 400 V, 1,1 kW, 3 A, 50 / 60 Hz|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Power supply unit 400 V AC / 24 V DC, 50 / 60 Hz, 3-phase|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Buffering for 24 VDC consumers 24 V DC, 0-20 A, max. 4|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - digital input module DI9371, 12 inputs, 24 V DC sink|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - digital output module DO9322, 12 outputs, 24 VDC, 0.5 A, source|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|X20 CPU Celeron 266 compact|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - bus transmitter BT9400, X2X Link|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS-Compact Flash 64 MB|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - bus module BM11, 24 V coded interconnected internal I/O supply|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - X20 terminal block, 12-pin|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - Interface module CS1030, 1 x RS485/RS422|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|SPS - supply bus module BM05, with node number switch internal I/O supply is separated to the left|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Christ power measurement CPM400|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Phoenix mounting railbusconnector, 5-pol. ME 22,5 TBUS 1,5/PPPSS-3,81 BK|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Phoenix Mounting rail- Busconnector, 5-pol ME22,5 TBUS 1,5/5-ST-3,81 KMGY|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Lighting for switchboard cabinet 11 W 230 V|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Operation panel BTA321|TNMD
+AUTOMATIC TRAIN WASH PLANT|Switchboard Plant|Fan 24 V DC|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Operation terminal UBT-S|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Cabinet UBT-S|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Mounting frame|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|– Retaining angle left for display – Retaining angle right for display|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|– Electric installation parts UBT-S|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Mounting plate for fan|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Cooling fan 60 x 60 x 25 mm 24 V|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Fan filter|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Sealing for foil keypad|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Switch element emergency stop|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Operation panel BTA321|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Supporting column H 1300mm UBT|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Terminal UBT-S|Data cable 10 x 1 mm² + 2 x 2 x 0,25 mm² (piece goods)|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Operation panel|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Key switch M22S-WRS 2 positionings|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Pushbutton illuminated white M22-DL-W|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Blind cover M22s-B|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Indicator light M22-L-R red|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Contact element button M22-CK 10|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|LED-element white M22-CLEDW 18-30 V AC/DC|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|LED-element red M22-CLED-R 18-30 V AC/DC|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Fastening adaptor M22-A|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Protective conductor terminal 2 conductor 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Feed-through terminal / 2 conductors 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|End plate terminal 2,5 mm²|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|End terminal 6 mm, grey|TNMD
+AUTOMATIC TRAIN WASH PLANT|Operation Panel|Secondary shield support M22SST- X|TNMD
+AUTOMATIC TRAIN WASH PLANT|Trimming|BRUSH Full brush shell 1 Splash protection, horizontal cylinder 2 Lateral cylinder, left 3 Emergency-stop switching device 4 Under-chassis cylinder, left 5 Vertical, left 6 Drive unit, left 7 Horizontal cylinder 8 Lateral cylinder, right 9 Drive unit, right 10 Under-chassis cylinder, right 11 Vertical, right|TNMD
+AUTOMATIC TRAIN WASH PLANT|Trimming|HORIZONTAL BRUSH|TNMD
+AUTOMATIC TRAIN WASH PLANT|Trimming|VERTICAL BRUSH|TNMD
+AUTOMATIC TRAIN WASH PLANT|Trimming|UNDER-CHASSIS BRUSH|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube, nominal diameter 4 x 1 mm (piece goods) -Placed at the air distributor complete|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube, nominal diameter 8 x 1 mm (piece goods) -Placed at the supply device 1,5 kW, 100 l/min, 3 bar -Placed at the bypass ½“ / ⅜“ / -Placed at the supply device 2,2 kW, 180 l/min, 3 bar -Placed at the supply device 3,0 kW, 300 l/min, 3 bar|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Tube NW 8 x 2,5 mm (piece goods) -Placed at metering unit|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube nominal diameter 8- 2 mm, 2 bar (piece goods) -Placed at metering unit|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube nominal diameter 10-3, 21 bar (piece goods) -Placed at the train wash unit C1000 SOA WH 4700 -Placed at the train wash unit C1000 SOA WH 2000|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube NW 13-4, 20 bar (piece goods) -Placed at the rising equipment.|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube, nominal diameter 19-4,5 mm, 25 bar (piece goods) -Placed at the train wash unit C1000 SOA WH 4700 -Placed at the train wash unit C1000 SOA WH 2000|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube nominal diameter 19-4 (piece goods) -Placed at the supply device 1,5 kW, 100 l/min, 3 bar -Placed at the supply device 2,2 kW, 180 l/min, 3 bar|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube, nominal diameter 25-4,5 15 bar (piece goods) -Placed at pre spraying equipment. -Placed at the supply device 1,5 kW, 100 l/min, 3 bar -Placed at the supply device 2,2 kW, 180 l/min, 3 bar|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube NW 32-6 20 bar (piece goods) -Placed at cooling/ warm up equipment -Placed at the pre spray equipment -Placed at the rising equipment -Placed at the supply device 3,0 kW, 300 l/min, 3|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Pressure tube, nominal diameter 32-5 -Placed at the FRESH WATER POWER SUPPLY ISOLATION|TNMD
+AUTOMATIC TRAIN WASH PLANT|Hoses (supply lines)|Suction tube nominal diameter 50- 5,4 7 bar (piece goods) -Placed at the Supply device 1,5 kW, 100 l/min, 3 bar -Placed at the supply device 2,2 kW, 180 l/min, 3 bar -Placed at the supply device 3,0 kW, 300 l/min, 3 bar|TNMD
+AUTOMATIC TRAIN WASH PLANT|Tilt safety device|TILT SAFETY DEVICE Front and rear of the drive unit’s frames|TNMD
+AUTOMATIC TRAIN WASH PLANT|Guide pulley|GUIDE PULLEY Lifting device Washer for toothed belt Z40-8 M 50|TNMD
+AUTOMATIC TRAIN WASH PLANT|Wire rope|WIRE ROPE|TNMD
+AUTOMATIC TRAIN WASH PLANT|Wire rope|LIFTING DEVICE Wire rope 4 x 6100 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Wire rope|TROLLEY LIFT Wire rope 4 x 750 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|LATERAL CYLINDER -Train wash unit C5400 SOA|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|LATERAL CYLINDER SYSTEM|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|– Trolley left complete, stainless steel – Trolley right complete, stainless steel|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|DRIVE UNIT CYLINDER ACTUATOR LEFT/RIGHT OC-motor 0,55 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|DRIVE UNIT CYLINDER OC-motor 1,5 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|BRUSH/TRIMMING|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|Full brush shell 300 x 550 mm dense, over length,|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|Full brush shell 300 x 500 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|Full brush shell 300 x 450 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Driving device for lateral cylinders|Full brush shell 300 x 400 mm, dense|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|DRIVE UNIT ACTUATOR LEFT/RIGHT - OC-motor 0,55 kW, 400 V, 50 Hz, 1450 min-1 DRIVE UNIT CYLINDER - OC-motor 1,5 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|DRIVE UNIT RIGHT Worm gear right, I = 12:1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|DRIVE UNIT LEFT Worm gear left, I = 12:1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|ROTARY PUMP -WILO , 400 Vac, 4.4 Amp, 50Hz, cos theta 0.89, speed 2880, power 2.2kW (MOTOR) - WILO, pressure max 25 bar, temperature max 90 Celcius (PUMP)|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|ROTARY PUMP -LOWARA , 380 Vac, 7.80 Amp, 50Hz, cos theta 0.88, speed 2895 (MOTOR) - LOWARA, 380-415 Vac, 3.33kW, 50Hz (PUMP)|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|ROTARY PUMP Rotary pump Wilo MVI 804F 233- 13 l/min 1,8-4,5 bar 400 V 1,5 kW (P2) 50 Hz|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|ROTARY PUMP -Rotary pump WILO MVI 806 233- 13 l/min 2,2-7 bar 400V 2,2 kW (P2) 50 Hz|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|ROTARY PUMP -Rotary pump Lowara 15SV04F040T, 400-133 l/min, 2,4 – 4,8 bar, 4,0 kW|TNMD
+AUTOMATIC TRAIN WASH PLANT|Drive unit|Dosing pump Iwaki 184 Kw, 230 V, 0.8 A, 50/60 hz Max. Pressure 1 Mpa|TNMD
+AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinders, lifting device|LIFTING DEVICE|TNMD
+AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinders, lifting device|DRIVE UNIT OC-motor 0,55 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Under-chassis cylinders, lifting device|Toothed belt 8 m 50 HP-Niro|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|LATERAL CYLINDER -Train wash unit C1000 SOA WH 4700|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|BRUSH/TRIMMING|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 550 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 500 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 450 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 400 mm, dense|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|DRIVE UNIT CYLINDER OC-motor 1,5 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|CYLINDER Pneumatic cylinder 100/100|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|AIR DISTRIBUTOR COMPLETE|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|PROXIMITY SENSOR 6 m cable, M 18 IG-3010-APKG, 10-36 V / DC, inductive break contact|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Pressure tube, nominal diameter 19-4,5 mm, 25 bar (piece goods)|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Pressure tube nominal diameter 10-3, 21 bar (piece goods)|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 550 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 500 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 450 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Lateral cylinders, bearing|Full brush shell 300 x 400 mm, dense|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|HORIZONTAL CYLINDER|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|DRIVE UNIT CYLINDER OC-motor 1,5 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Lifting device complete|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|DRIVE UNIT LIFTING OC-motor 0,55 kW, 400 V, 50 Hz, 1450 min-1|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Drum-type cable 100 left|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Wire rope 4 x 6100 mm|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Guide rails complete|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Carriage right|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Carriage left|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Cable guiding castor complete|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Full brush shell 300 x 500 mm dense, over length|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Full brush shell 300 x 450 mm dense, over length,|TNMD
+AUTOMATIC TRAIN WASH PLANT|Horizontal cylinder, bearing|Full brush shell 300 x 400 mm, dense|TNMD

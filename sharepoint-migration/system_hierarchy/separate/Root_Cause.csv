@@ -1,0 +1,379 @@
+root_cause|department
+Relay, Timer, loose connection, Under voltage relay faulty|WS10
+Engine oil, filter & Coolant leak|WS10
+Insulation is cracked or brittle|WS10
+Charger card failure, power supply failure, Battery faulty|WS10
+Capasitor burn, Power surge|WS10
+power supply failure, Display panel faulty|WS10
+Mechanical fault, Overload tripping|WS10
+Insulation is cracked or brittle, Cable fault|WS10
+Cable lugs loose|WS10
+power supply failure, Fuse blown|WS10
+Blown fuse|WS10
+Oil leak|WS10
+Coolant leak|WS10
+Winding faulty|WS10
+Bushing leak|WS10
+Protection relay tripping|WS10
+Unstable control power supply 110VDC / incoming supply 240VAC|WS10
+Faulty auxiliary contacts|WS10
+Bulb / LED faulty|WS10
+No display / dead meter|WS10
+Loose termination|WS10
+Control relay malfunction|WS10
+Control circuit failure, Motorized weak|WS10
+Loose wiring at terminal relay and MCCB,power supply failure|WS10
+power supply failure, Cable melting|WS10
+Short circuits, MCCB trip|WS10
+Loose cable termination, PFR faulty, Cap bank faulty|WS10
+Burn contacts, loose power cable terminations|WS10
+Open circuits, CT faulty|WS10
+Loose earth connection, Mulfuction SPD|WS10
+Relay coil resistance and relay contacts|WS10
+Short circuits, MCB trip|WS10
+loose termination|WS10
+Power supply failure, Protection tripping|WS10
+Stinger plug & cable gland damage, loose termination|WS10
+Protection relay faulty, Protection tripping|WS10
+Feeder trip, Control supply failure|WS10
+Power supply failure|WS10
+Power tripping|WS10
+Power supply failure, IGBT faulty|WS10
+Loose terminal connections, Increase reading|WS10
+Breaker trip, Earth fault relay trip, overcurrent trip|WS10
+Open circuit in CT secondary|WS10
+Cable fault, loose connection|WS10
+Protection relay failure, Open circuit, CT/VT/PT fault|WS10
+Power supply failure, equipment faulty|WS10
+Overcurrent,DC short circuit|WS10
+Battery faulty|WS10
+Charger failure / faulty|WS10
+Sliding door misalign|WS20
+Sliding door crack|WS20
+Fixed screen crack|WS20
+No power from incoming supply|WS20
+Door crack|WS20
+Door faulty|WS20
+Power lost due to RCCB tripped|WS20
+HMI hang|WS20
+No connection on LCU network|WS20
+Power supply burst|WS20
+MCB issue|WS20
+Relay issue|WS20
+Selector switch broken|WS20
+PLC hang|WS20
+Push button broken|WS20
+Diode broken|WS20
+Obstacle fault|WS20
+Light curtain fault|WS20
+SPS 1 sensor error|WS20
+SPS 2 sensor error|WS20
+DS 1 sensor error|WS20
+DS 2 sensor error|WS20
+Glass crack / broken|WS20
+Locking panel broken|WS20
+Motor power failure|WS20
+MSD lock failed|WS20
+MSD unlock failed|WS20
+Belting loose / damaged|WS20
+Bolt lock fault|WS20
+Obstruction fault|WS20
+Open sensor error|WS20
+Close sensor error|WS20
+Communication lost|WS20
+VMS issue|WS20
+Antenna miscaptured|WS20
+RF connection lost|WS20
+VMS I/O module fault|WS20
+System intermittent|WS20
+Fuse blow|WS20
+Cable loose|WS20
+Over voltage|WS20
+Mulfuntioning during operation|WS20
+Fan problem|WS20
+Network switch issue|WS20
+No power|WS20
+Track invalid|WS20
+Power supply broken / burst|WS20
+Fiber cut|WS20
+MESD alarm frequently occurs|WS20
+Self-refresh due to system bugs|WS20
+Converter korenix burnt|WS20
+Network cable loose|WS20
+Cable RJ45 problem|WS20
+Power cable loose|WS20
+Power supply faulty|WS20
+TNB power failure|WS20
+Train TAG problem|WS20
+Surge arrestor problem|WS20
+Fiber optic problem|WS20
+Power adapter issue|WS20
+KVM converter issue|WS20
+Power adapter problem|WS20
+VGA cable loose|WS20
+OTN failures|WS20
+SFP error|WS20
+No connection|WS20
+Fibre issue|WS20
+Pig tail crack|WS20
+Module card mulfunction|WS20
+SFP problem|WS20
+Cable connection loose|WS20
+B&C connector loose|WS20
+Camera problem|WS20
+DVR hang|WS20
+Cover box crack /open|WS20
+Cable hangging|WS20
+Monitor blank|WS20
+Power supply problem|WS20
+Converter HDMI loose|WS20
+Conventer VGA loose|WS20
+Power cable pulled off|WS20
+Overheating|WS20
+Outdated firmware on DVR|WS20
+MATRIX hang|WS20
+SFP issue|WS20
+Cable interface card PLC faulty|WS20
+Cordless phone broken|WS20
+Intermittent|WS20
+Connector port loose|WS20
+Battery issue|WS20
+Cable RJ11 loose|WS20
+Cable power loose|WS20
+UTP cable loose / broken|WS20
+Power supply burst / broken|WS20
+Cable phone loose|WS20
+System hang|WS20
+NAC hang|WS20
+Board problem|WS20
+UTP cable loose|WS20
+Cable clip broken|WS20
+Outdated program|WS20
+PID hang|WS20
+System glitch|WS20
+Phone broken|WS20
+PCB display faulty|WS20
+System error|WS20
+Cbale loose|WS20
+LED panel board issue|WS20
+Power supply burst/broken|WS20
+Fan issue|WS20
+Information board blank|WS20
+Audio speaker faulty|WS20
+Help point damage|WS20
+Network connection hang|WS20
+Charger broken|WS20
+Button radio broken|WS20
+Charger port problem|WS20
+Connection Intermittent|WS20
+No voice|WS20
+System mulfunction|WS20
+Voice intermittent|WS20
+Videowall hang|WS20
+Burnt bulb|WS20
+View blank|WS20
+Connector cable loose|WS20
+View blur|WS20
+Extender mulfunction|WS20
+MATRIX problem|WS20
+Power supply trip|WS20
+Faulty PSU|WS20
+Network switch failure|WS20
+IP conflict|WS20
+Fiber/SFP issue|WS20
+LAN cable degradation|WS20
+VLAN misconfiguration|WS20
+Amplifier failure|WS20
+Loose XLR/Audio cable|WS20
+Impedance mismatch|WS20
+Reslot connector CN2DN|RSDM
+Device Net Connector problem|RSDM
+Cable loose|RSDM
+UOF|RSDM
+Reslot anybus|RSDM
+DNET Communication Loss|RSDM
+Retight Dnet card|RSDM
+Battery Charger faulty|RSDM
+APS faulty|RSDM
+Contronet Node faulty|RSDM
+Breaker trip|RSDM
+Dnet Module faulty|RSDM
+Mechanical Lock Nut damage|RSDM
+Apron Door Lock problem|RSDM
+Window glass is out of the frame position|RSDM
+Connector problem|RSDM
+Magnet Sensor faulty|RSDM
+Sensor Apron Door fail|RSDM
+Stinger door open|RSDM
+Magnet sensor missalign|RSDM
+limit switch fail|RSDM
+Others|RSDM
+T-handle damage|RSDM
+Guide Wheel-Bearing Jammed|RSDM
+TPMS Sensor Faulty|RSDM
+TPMS Loss Comms|RSDM
+Bogie Parts Damage|RSDM
+RTD Faulty|RSDM
+Short cardan shaft broken|RSDM
+Brake Actuator faulty|RSDM
+Cam Roller faulty|RSDM
+Guide Wheel-Leaking|RSDM
+T-Valve leaking|RSDM
+Wear Plate damage|RSDM
+Levelling valve faulty|RSDM
+RGB Faulty|RSDM
+LW High Air Pressure|RSDM
+Copper Pipe Damage|RSDM
+Main Hub Faulty|RSDM
+TPMS Any bus faulty|RSDM
+Long Cardan Shaft faulty|RSDM
+Rubber Puffer Wear|RSDM
+Low Coolant Flow|RSDM
+Cooling unit faulty|RSDM
+Flow switch faulty|RSDM
+Cooling Pump Fault|RSDM
+Cooling Fan Fault|RSDM
+air lock in|RSDM
+Low Speed Trip|RSDM
+High Speed Trip|RSDM
+Hose leaking|RSDM
+head damage|RSDM
+shaft damage|RSDM
+Wiper faulty|RSDM
+Wiper Blade amage|RSDM
+Relay faulty|RSDM
+Wiper Motor failure|RSDM
+Master Controller failure|RSDM
+DeadMan Relay faulty|RSDM
+Deadman Relay Wire lose|RSDM
+Door Push Button failure|RSDM
+Magnetic Door out position|RSDM
+Key lock switch damage|RSDM
+Drivers Cab Screw loose|RSDM
+Shoe Worn out|RSDM
+Safety cable cutoff|RSDM
+arm plate bended|RSDM
+Assemly Leaking|RSDM
+Braker trip|RSDM
+A/C Gas low|RSDM
+A/C Gas high|RSDM
+Supply fan faulty|RSDM
+Temperature Sensor Faulty|RSDM
+VMS - HVAC DNET Communication Lost|RSDM
+HVAC Damper Fault|RSDM
+Gangway Leaking|RSDM
+Gangway damage|RSDM
+Glass Broken|RSDM
+Hand grip broken|RSDM
+Stanchion Broken|RSDM
+Passenger Seat Broken|RSDM
+Smoke detector faulty|RSDM
+Power Supply fail|RSDM
+Fuse blown|RSDM
+Diode blown|RSDM
+Ballast faulty|RSDM
+Passengers Saloon Light faulty|RSDM
+110 VDC ground fault|RSDM
+24 VDC ground fault|RSDM
+Phase Sequence Relay faulty|RSDM
+Deadman relay faulty|RSDM
+Motor Encoder Faulty|RSDM
+Door Railing Fail|RSDM
+Door Obstruct (External)|RSDM
+Teflon wear|RSDM
+DCU faulty|RSDM
+Belting Damage|RSDM
+Spindle Shaft rough/stuck|RSDM
+Door Obstruct (Internal)|RSDM
+Door Driving Arm Loose|RSDM
+Door limit switch stoper out position|RSDM
+Limit switch out of position|RSDM
+Fuse Blown|RSDM
+Right Limit Switch Realign|RSDM
+Lock Switch Not Activated|RSDM
+Solenoid Faulty|RSDM
+Roller faulty|RSDM
+Door Locking Pin fail|RSDM
+Lock pin out position|RSDM
+Bearing faulty|RSDM
+Door Drive Assembly Crack|RSDM
+Door Isolation plate bend|RSDM
+Door motor enconder faulty|RSDM
+BCU faulty|RSDM
+Connecter faulty|RSDM
+Double check valve broken|RSDM
+CMR relay fault|RSDM
+Air Compressor faulty|RSDM
+Cable Loosen|RSDM
+Park Brake Pressure faulty|RSDM
+Pressure Switch fail|RSDM
+Wire loosen|RSDM
+Soft Starter faulty|RSDM
+Pipe faulty|RSDM
+Park Brake Pressure Switch fail|RSDM
+BCU gateway faulty|RSDM
+RIO gateway faulty|RSDM
+Emergency brake fail|RSDM
+Reslot all connector|RSDM
+Brakes not released|RSDM
+BCU Speed Sensor faulty|RSDM
+flexible hose faulty|RSDM
+Valve faulty|RSDM
+Governor faulty|RSDM
+Brake accuator hose faulty|RSDM
+EMBR motor faulty|RSDM
+BCU RS485 Communication Lost|RSDM
+BCU Translator faulty|RSDM
+Surge Arrester Fuse Blown|RSDM
+current collector shoe worn|RSDM
+Intercar fuse blown|RSDM
+750Vdc Main Contactor Defective|RSDM
+Limit Swicth faulty|RSDM
+Cabinet HV creck|RSDM
+Positive Current Collector Not OK|RSDM
+Negative Current Collector Not OK|RSDM
+Cable damage|RSDM
+Connector damage|RSDM
+Cable Loose|RSDM
+GRU unit faulty|RSDM
+Card CTI faulty|RSDM
+Control Net Communication Error|RSDM
+SW Parameter incompatibality|RSDM
+Traction inverter faulty|RSDM
+Overtemp- Traction Motor|RSDM
+Encoder faulty|RSDM
+Cooling System Faulty- Breaker Trip|RSDM
+GRU Catcher Limit Switch Faulty|RSDM
+Power cable Faulty|RSDM
+GRU Catcher hook hinge problem|RSDM
+Overtemp- 2 traction Bypassed|RSDM
+Overtemp-RGB|RSDM
+Overtemp-GRU|RSDM
+Traction Motor Faulty|RSDM
+Connector Broken|RSDM
+Program Crash|RSDM
+PID Damage|RSDM
+MOXA Faulty|RSDM
+Screen Burn|RSDM
+HMI Faulty|RSDM
+Card Corrupted|RSDM
+PAC ChangeOver|RSDM
+BNC Cable Loosen|RSDM
+Processor program|RSDM
+PAC faulty|RSDM
+Adapter Module Faulty|RSDM
+Power Supply Faulty|RSDM
+T-Tap Loosen|RSDM
+Panel View Faulty|RSDM
+I/O Module Faulty|RSDM
+Cable Damage|RSDM
+EVC faulty|RSDM
+BTM faulty|RSDM
+Earth Shoe assembly faulty|RSDM
+BTM Control Unit Card faulty|RSDM
+Tag ID Faulty|RSDM
+Antenna faulty|RSDM
+Overtemp|RSDM
+Overshoot|RSDM
+BTM TXU/RXU Card faulty|RSDM
+Earth unit fail|RSDM

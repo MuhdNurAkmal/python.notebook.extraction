@@ -1,0 +1,126 @@
+system|sub_system|sub_sub_system|root_cause|department
+Generator Set|Volvo 100kVa|AMF Board|Relay, Timer, loose connection, Under voltage relay faulty|WS10
+Generator Set|Volvo 100kVa|Engine|Engine oil, filter & Coolant leak|WS10
+Generator Set|Volvo 100kVa|Alternator|Insulation is cracked or brittle|WS10
+Generator Set|Volvo 100kVa|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+Generator Set|Volvo 175kVa|AMF Board|Relay, Timer, loose connection, Under voltage relay faulty|WS10
+Generator Set|Volvo 175kVa|Engine|Engine oil, filter & Coolant leak|WS10
+Generator Set|Volvo 175kVa|Alternator|Insulation is cracked or brittle|WS10
+Generator Set|Volvo 175kVa|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+Generator Set|Volvo 250kVa|AMF Board|Relay, Timer, loose connection, Under voltage relay faulty|WS10
+Generator Set|Volvo 250kVa|Engine|Engine oil, filter & Coolant leak|WS10
+Generator Set|Volvo 250kVa|Alternator|Insulation is cracked or brittle|WS10
+Generator Set|Volvo 250kVa|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+Generator Set|Volvo 300kVa|AMF Board|Relay, Timer, loose connection, Under voltage relay faulty|WS10
+Generator Set|Volvo 300kVa|Engine|Engine oil, filter & Coolant leak|WS10
+Generator Set|Volvo 300kVa|Alternator|Insulation is cracked or brittle|WS10
+Generator Set|Volvo 300kVa|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+Generator Set|Mitsubishi 1000kVa|AMF Board|Relay, Timer, loose connection, Under voltage relay faulty|WS10
+Generator Set|Mitsubishi 1000kVa|Engine|Engine oil, filter & Coolant leak|WS10
+Generator Set|Mitsubishi 1000kVa|Alternator|Insulation is cracked or brittle|WS10
+Generator Set|Mitsubishi 1000kVa|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+UPS|40 KVA (Station)|Board|Capasitor burn, Power surge|WS10
+UPS|40 KVA (Station)|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+UPS|40 KVA (Station)|Display Panel|power supply failure, Display panel faulty|WS10
+UPS|40 KVA (Station)|MCB|Mechanical fault, Overload tripping|WS10
+UPS|40 KVA (Station)|Cable|Insulation is cracked or brittle, Cable fault|WS10
+UPS|40 KVA (Station)|Cable Lugs|Cable lugs loose|WS10
+UPS|40 KVA (Station)|Module|power supply failure, Fuse blown|WS10
+UPS|40 KVA (Station)|Fuse|Blown fuse|WS10
+UPS|10 KVA (TPSS SSZ)|Board|Capasitor burn, Power surge|WS10
+UPS|10 KVA (TPSS SSZ)|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+UPS|10 KVA (TPSS SSZ)|Display Panel|power supply failure, Display panel faulty|WS10
+UPS|10 KVA (TPSS SSZ)|MCB|Mechanical fault, Overload tripping|WS10
+UPS|10 KVA (TPSS SSZ)|Cable|Insulation is cracked or brittle, Cable fault|WS10
+UPS|10 KVA (TPSS SSZ)|Cable Lugs|Cable lugs loose|WS10
+UPS|10 KVA (TPSS SSZ)|Fuse|Blown fuse|WS10
+UPS|30 KVA (DCC)|Board|Capasitor burn, Power surge|WS10
+UPS|30 KVA (DCC)|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+UPS|30 KVA (DCC)|Display Panel|power supply failure, Display panel faulty|WS10
+UPS|30 KVA (DCC)|MCB|Mechanical fault, Overload tripping|WS10
+UPS|30 KVA (DCC)|Cable|Insulation is cracked or brittle, Cable fault|WS10
+UPS|30 KVA (DCC)|Female Terminal Lugs|Cable lugs loose|WS10
+UPS|30 KVA (DCC)|Module|power supply failure, Fuse blown|WS10
+UPS|30 KVA (DCC)|Fuse|Blown fuse|WS10
+UPS|40 KVA (OCC)|Board|Capasitor burn, Power surge|WS10
+UPS|40 KVA (OCC)|Battery|Charger card failure, power supply failure, Battery faulty|WS10
+UPS|40 KVA (OCC)|Display Panel|power supply failure, Display panel faulty|WS10
+UPS|40 KVA (OCC)|MCB|Mechanical fault, Overload tripping|WS10
+UPS|40 KVA (OCC)|Cable|Insulation is cracked or brittle, Cable fault|WS10
+UPS|40 KVA (OCC)|Female Terminal Lugs|Cable lugs loose|WS10
+UPS|40 KVA (OCC)|Module|power supply failure, Fuse blown|WS10
+UPS|40 KVA (OCC)|Fuse|Blown fuse|WS10
+Transformer|1500 kVA Service Transformer|Tank Structure|Oil leak|WS10
+Transformer|1500 kVA Service Transformer|Cooling System (kVAW)|Coolant leak|WS10
+Transformer|1500 kVA Service Transformer|Core & Winding Assembly|Winding faulty|WS10
+Transformer|1500 kVA Service Transformer|High Voltage System (11kV)|Bushing leak|WS10
+Transformer|1500 kVA Service Transformer|Low Voltage (415V)|Bushing leak|WS10
+Transformer|1500 kVA Service Transformer|Monitoring & Protecting System|Protection relay tripping|WS10
+Transformer|2200 kVA Rectifier Transformer|Tank Structure|Oil leak|WS10
+Transformer|2200 kVA Rectifier Transformer|Cooling System (kVAW)|Coolant leak|WS10
+Transformer|2200 kVA Rectifier Transformer|Core & Winding Assembly|Winding faulty|WS10
+Transformer|2200 kVA Rectifier Transformer|High Voltage System (11kV)|Bushing leak|WS10
+Transformer|2200 kVA Rectifier Transformer|Low Voltage (415V)|Bushing leak|WS10
+Transformer|2200 kVA Rectifier Transformer|Monitoring & Protecting System|Protection relay tripping|WS10
+Transformer|1000kVA Generator Transformer|Tank Structure|Oil leak|WS10
+Transformer|1000kVA Generator Transformer|Cooling System (kVAW)|Coolant leak|WS10
+Transformer|1000kVA Generator Transformer|Core & Winding Assembly|Winding faulty|WS10
+Transformer|1000kVA Generator Transformer|High Voltage System (11kV)|Bushing leak|WS10
+Transformer|1000kVA Generator Transformer|Low Voltage (415V)|Bushing leak|WS10
+Transformer|1000kVA Generator Transformer|Monitoring & Protecting System|Protection relay tripping|WS10
+Load Break Switch|Front control panel|Control Switches|Unstable control power supply 110VDC / incoming supply 240VAC|WS10
+Load Break Switch|Front control panel|Push button|Faulty auxiliary contacts|WS10
+Load Break Switch|Front control panel|Indicators light|Bulb / LED faulty|WS10
+Load Break Switch|Front control panel|Measuring Devices|No display / dead meter|WS10
+Load Break Switch|Internal Wiring & Control|Protection|Loose termination|WS10
+Load Break Switch|Switch - Disconnectors (LMS)|Operate Interface|Control relay malfunction|WS10
+Load Break Switch|Switch - Disconnectors (LMS)|Keyed Emergency Mechanism|Control circuit failure, Motorized weak|WS10
+Load Break Switch|Power Indicator Light|Power Indicator Light Control Panel|Loose wiring at terminal relay and MCCB,power supply failure|WS10
+Load Break Switch|Power Indicator Light|Becon light|power supply failure, Cable melting|WS10
+Low Voltage|MSB|MCCB|Short circuits, MCCB trip|WS10
+Low Voltage|MSB|Capacitor Bank|Loose cable termination, PFR faulty, Cap bank faulty|WS10
+Low Voltage|MSB|Automatic Transfer Switch (ATS)|Burn contacts, loose power cable terminations|WS10
+Low Voltage|MSB|Current Transformer|Open circuits, CT faulty|WS10
+Low Voltage|MSB|Surge Protection Device (SPD)|Loose earth connection, Mulfuction SPD|WS10
+Low Voltage|EMSB|MCCB|Short circuits, MCCB trip|WS10
+Low Voltage|EMSB|Capacitor Bank|Loose cable termination, PFR faulty, Cap bank faulty|WS10
+Low Voltage|EMSB|Automatic Transfer Switch (ATS)|Burn contacts, loose power cable terminations|WS10
+Low Voltage|EMSB|Current Transformer|Open circuits, CT faulty|WS10
+Low Voltage|EMSB|Surge Protection Device (SPD)|Loose earth connection, Mulfuction SPD|WS10
+Low Voltage|Earthing|MCCB|Short circuits, MCCB trip|WS10
+Low Voltage|Earthing|Capacitor Bank|Loose cable termination, PFR faulty, Cap bank faulty|WS10
+Low Voltage|Earthing|Automatic Transfer Switch (ATS)|Burn contacts, loose power cable terminations|WS10
+Low Voltage|Earthing|Current Transformer|Open circuits, CT faulty|WS10
+Low Voltage|Earthing|Surge Protection Device (SPD)|Loose earth connection, Mulfuction SPD|WS10
+Blue Light System|Blue Light Station|Relay|Relay coil resistance and relay contacts|WS10
+Blue Light System|Blue Light Station|MCB|Short circuits, MCB trip|WS10
+Blue Light System|Blue Light Station|Terminal Block|loose termination|WS10
+Blue Light System|BLRP|Relay|Relay coil resistance and relay contacts|WS10
+Blue Light System|BLRP|MCB|Short circuits, MCB trip|WS10
+Blue Light System|BLRP|Terminal Block|loose termination|WS10
+Blue Light System|Junction Box|Relay|Relay coil resistance and relay contacts|WS10
+Blue Light System|Junction Box|MCB|Short circuits, MCB trip|WS10
+Blue Light System|Junction Box|Terminal Block|loose termination|WS10
+Stinger|Stinger Panel|MCCB Compartment|Short circuits, MCCB trip|WS10
+Stinger|Stinger Panel|Stinger Control Circuit|Power supply failure, Protection tripping|WS10
+Stinger|Stinger Plug & Soket|MCCB Compartment|Short circuits, MCCB trip|WS10
+Stinger|Stinger Plug & Soket|Stinger Plug|Stinger plug & cable gland damage, loose termination|WS10
+TPSS|750 VDC Switchgear|Feeder 1|Protection relay faulty, Protection tripping|WS10
+TPSS|750 VDC Switchgear|Feeder 2|Protection relay faulty, Protection tripping|WS10
+TPSS|750 VDC Switchgear|Feeder 3|Protection relay faulty, Protection tripping|WS10
+TPSS|750 VDC Switchgear|Feeder 4|Protection relay faulty, Protection tripping|WS10
+TPSS|750 VDC Switchgear|Feeder AARU|Feeder trip, Control supply failure|WS10
+TPSS|AARU|Display Panel|Power supply failure|WS10
+TPSS|AARU|Power Supply|Power tripping|WS10
+TPSS|AARU|AARU Controller|Power supply failure, IGBT faulty|WS10
+TPSS|AARU|Resistor Bank|Loose terminal connections, Increase reading|WS10
+TPSS|11 kV VCB Switchgear|Circuit Breaker|Breaker trip, Earth fault relay trip, overcurrent trip|WS10
+TPSS|11 kV VCB Switchgear|Instrument|Open circuit in CT secondary|WS10
+TPSS|11 kV VCB Switchgear|Cable|Cable fault, loose connection|WS10
+TPSS|11 kV VCB Switchgear|CT/VT/PT|Protection relay failure, Open circuit, CT/VT/PT fault|WS10
+TPSS|2000 kW Rectifier|Control System|Power supply failure, equipment faulty|WS10
+TPSS|2000 kW Rectifier|Main Power Conversion|Overcurrent,DC short circuit|WS10
+TPSS|2000 kW Rectifier|Control & Instrument Panel|Power supply failure, equipment faulty|WS10
+TPSS|110 VDC Charger (Battery System)|Panel 10A/20A|Power supply failure, equipment faulty|WS10
+TPSS|110 VDC Charger (Battery System)|Battery 1.2V|Battery faulty|WS10
+TPSS|110 VDC Charger (Battery System)|DC Charager|Charger failure / faulty|WS10

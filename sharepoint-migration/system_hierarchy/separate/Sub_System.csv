@@ -1,0 +1,184 @@
+sub_system|department
+Volvo 100kVa|WS10
+Volvo 175kVa|WS10
+Volvo 250kVa|WS10
+Volvo 300kVa|WS10
+Mitsubishi 1000kVa|WS10
+40 KVA (Station)|WS10
+10 KVA (TPSS SSZ)|WS10
+30 KVA (DCC)|WS10
+40 KVA (OCC)|WS10
+1500 kVA Service Transformer|WS10
+2200 kVA Rectifier Transformer|WS10
+1000kVA Generator Transformer|WS10
+Front control panel|WS10
+Internal Wiring & Control|WS10
+Switch - Disconnectors (LMS)|WS10
+Power Indicator Light|WS10
+MSB|WS10
+EMSB|WS10
+Earthing|WS10
+Blue Light Station|WS10
+BLRP|WS10
+Junction Box|WS10
+Stinger Panel|WS10
+Stinger Plug & Soket|WS10
+750 VDC Switchgear|WS10
+AARU|WS10
+11 kV VCB Switchgear|WS10
+2000 kW Rectifier|WS10
+110 VDC Charger (Battery System)|WS10
+Door / Panel|WS20
+(DCU) Door Control Unit|WS20
+(LCU) Local Control Unit|WS20
+(PDB) Platform Distribution Box|WS20
+Light Curtain|WS20
+Sensor|WS20
+(EED) Emergency Exit Door|WS20
+(PED) Platform End Door|WS20
+(MSD) Motorized Screen Door|WS20
+RF Transceiver Module|WS20
+MEI/MESD|WS20
+TRAIN DETECTION SYSTEM (TDS)|WS20
+LINESIDE ELECTRONIC UNIT (LEU)|WS20
+KVM|WS20
+Optical Fiber|WS20
+MESD|WS20
+HIMA MATRIX|WS20
+KVM Switch|WS20
+VGA Converter to DVI|WS20
+KVM Extender Received|WS20
+Electrical Fuse|WS20
+Power Supply|WS20
+OTN50|WS20
+OPTIX HUAWEI 1800V (OSN)|WS20
+MONITOR CSO|WS20
+CAMERA|WS20
+PROGRAMMABLE LOGIC CONTROL (PLC)|WS20
+NEAX® 2000 IPS|WS20
+IPPA|WS20
+NAC|WS20
+Speaker|WS20
+HELP POINT|WS20
+PIDS|WS20
+RSU - REMOTE SITE UNIT/SIMULCAST MODULE (T805-24)|WS20
+NOTCH DUPLEXER MODULE|WS20
+GPS FREQUENCY REFERENCE MODULE (T801-41)|WS20
+RADIO BASE STATION (RBS) MODULE (TB8100)|WS20
+VOTER MODULE|WS20
+VMU Console MODULE|WS20
+ANTENNA|WS20
+DISPLAY VIEW MONITORING|WS20
+Amplified Speaker|WS20
+Gooseneck|WS20
+Portable radio Motorola|WS20
+Auxiliary Power System (APS)|RSDM
+Car Body (BOD)|RSDM
+Bogie System (BOG)|RSDM
+Cooling System (COS)|RSDM
+Couple and Drawbar System (CDS)|RSDM
+Drivers Console (DRC)|RSDM
+Earthing System (EAR)|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|RSDM
+Intercar General Assembly (ICR)|RSDM
+Interior (TRM)|RSDM
+Low Voltage System (LVS)|RSDM
+Passenger Door System (DRS)|RSDM
+Pneumatic and Brake System (BRS)|RSDM
+Primary Power System (PPS)|RSDM
+Propulsion System (PRS)|RSDM
+Rolling Stock Communication (RSC)|RSDM
+Vehicle Management System (VMS)|RSDM
+Rolling Stock Signalling (RSS)|RSDM
+Switchdeck & RC Beam|TNMD
+Carriage Including Carriage Wheel|TNMD
+Lockpin|TNMD
+Rotork system|TNMD
+Non - Rumba mechanism|TNMD
+Switch Beam|TNMD
+Gearbox assembly|TNMD
+Local Control Panel|TNMD
+Fallback Control Panel|TNMD
+Electrial Part|TNMD
+Motor|TNMD
+FALLBACK PANEL|TNMD
+Locking Pin Assembly|TNMD
+VFD/Inverter Motor|TNMD
+Resistor ( Perintang )|TNMD
+Winch Assembly|TNMD
+P.L.C|TNMD
+Wire rope assembly|TNMD
+Guidance truck|TNMD
+Inner / Outer link beam|TNMD
+Insulator assembly|TNMD
+Rail|TNMD
+Electrical Joint|TNMD
+Expended Metal|TNMD
+Bridge|TNMD
+Bracket Horizontal and Vertical|TNMD
+nan|TNMD
+Beam|TNMD
+Finger Plate|TNMD
+Earthing plate|TNMD
+Electrical Appliance|TNMD
+TMV Genset|TNMD
+Engine System|TNMD
+Battery|TNMD
+Engine Coolant System|TNMD
+Hydraulic Pump|TNMD
+Guide Wheel|TNMD
+Load Wheel|TNMD
+Vehicle Body|TNMD
+Panel Drive|TNMD
+Panel Trailer|TNMD
+Brake System|TNMD
+Crane|TNMD
+Outrigger|TNMD
+Engine Fuel System|TNMD
+Genset|TNMD
+Motor Drive|TNMD
+Hydraulic|TNMD
+Beam Carriage|TNMD
+Tranveser beam|TNMD
+Electrical Part|TNMD
+Hoist and travelling system|TNMD
+Electrical System|TNMD
+Vee Belts|TNMD
+Pedestal frame|TNMD
+Electric Motor|TNMD
+Grinding wheel|TNMD
+Screw Compressor|TNMD
+Hoses|TNMD
+Condenser|TNMD
+Filter|TNMD
+Air Dry Unit|TNMD
+Electric & Electronic Part|TNMD
+Tank|TNMD
+Monitor Compressor|TNMD
+Air dry Unit|TNMD
+Frame|TNMD
+Bogie Drop Pit 1|TNMD
+Bogie Drop Pit 2|TNMD
+Moving Parts|TNMD
+Bed/Lead Screws|TNMD
+Saddle|TNMD
+Tool Post|TNMD
+Chuck|TNMD
+Motion rails trimming|TNMD
+Safety devices|TNMD
+Light barriers|TNMD
+Under-chassis cylinder|TNMD
+Water system|TNMD
+Switchboard Plant|TNMD
+Operation Terminal UBT-S|TNMD
+Operation Panel|TNMD
+Trimming|TNMD
+Hoses (supply lines)|TNMD
+Tilt safety device|TNMD
+Guide pulley|TNMD
+Wire rope|TNMD
+Driving device for lateral cylinders|TNMD
+Drive unit|TNMD
+Under-chassis cylinders, lifting device|TNMD
+Lateral cylinders, bearing|TNMD
+Horizontal cylinder, bearing|TNMD

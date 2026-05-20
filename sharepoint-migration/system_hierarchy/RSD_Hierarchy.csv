@@ -1,0 +1,224 @@
+sub_system|root_cause|department
+Auxiliary Power System (APS)|Reslot connector CN2DN|RSDM
+Auxiliary Power System (APS)|Device Net Connector problem|RSDM
+Auxiliary Power System (APS)|Cable loose|RSDM
+Auxiliary Power System (APS)|UOF|RSDM
+Auxiliary Power System (APS)|Reslot anybus|RSDM
+Auxiliary Power System (APS)|DNET Communication Loss|RSDM
+Auxiliary Power System (APS)|Retight Dnet card|RSDM
+Auxiliary Power System (APS)|Battery Charger faulty|RSDM
+Auxiliary Power System (APS)|APS faulty|RSDM
+Auxiliary Power System (APS)|Contronet Node faulty|RSDM
+Auxiliary Power System (APS)|Breaker trip|RSDM
+Auxiliary Power System (APS)|Dnet Module faulty|RSDM
+Car Body (BOD)|Mechanical Lock Nut damage|RSDM
+Car Body (BOD)|Apron Door Lock problem|RSDM
+Car Body (BOD)|Window glass is out of the frame position|RSDM
+Car Body (BOD)|Connector problem|RSDM
+Car Body (BOD)|UOF|RSDM
+Car Body (BOD)|Magnet Sensor faulty|RSDM
+Car Body (BOD)|Sensor Apron Door fail|RSDM
+Car Body (BOD)|Stinger door open|RSDM
+Car Body (BOD)|Magnet sensor missalign|RSDM
+Car Body (BOD)|limit switch fail|RSDM
+Car Body (BOD)|Others|RSDM
+Car Body (BOD)|T-handle damage|RSDM
+Bogie System (BOG)|Guide Wheel-Bearing Jammed|RSDM
+Bogie System (BOG)|TPMS Sensor Faulty|RSDM
+Bogie System (BOG)|UOF|RSDM
+Bogie System (BOG)|TPMS Loss Comms|RSDM
+Bogie System (BOG)|Bogie Parts Damage|RSDM
+Bogie System (BOG)|RTD Faulty|RSDM
+Bogie System (BOG)|Short cardan shaft broken|RSDM
+Bogie System (BOG)|Brake Actuator faulty|RSDM
+Bogie System (BOG)|Cam Roller faulty|RSDM
+Bogie System (BOG)|Guide Wheel-Leaking|RSDM
+Bogie System (BOG)|T-Valve leaking|RSDM
+Bogie System (BOG)|Wear Plate damage|RSDM
+Bogie System (BOG)|Levelling valve faulty|RSDM
+Bogie System (BOG)|RGB Faulty|RSDM
+Bogie System (BOG)|LW High Air Pressure|RSDM
+Bogie System (BOG)|Copper Pipe Damage|RSDM
+Bogie System (BOG)|Main Hub Faulty|RSDM
+Bogie System (BOG)|TPMS Any bus faulty|RSDM
+Bogie System (BOG)|Long Cardan Shaft faulty|RSDM
+Bogie System (BOG)|Rubber Puffer Wear|RSDM
+Cooling System (COS)|Low Coolant Flow|RSDM
+Cooling System (COS)|Cooling unit faulty|RSDM
+Cooling System (COS)|Flow switch faulty|RSDM
+Cooling System (COS)|Cooling Pump Fault|RSDM
+Cooling System (COS)|Cooling Fan Fault|RSDM
+Cooling System (COS)|air lock in|RSDM
+Cooling System (COS)|Low Speed Trip|RSDM
+Cooling System (COS)|UOF|RSDM
+Cooling System (COS)|High Speed Trip|RSDM
+Couple and Drawbar System (CDS)|Hose leaking|RSDM
+Couple and Drawbar System (CDS)|Others|RSDM
+Couple and Drawbar System (CDS)|head damage|RSDM
+Couple and Drawbar System (CDS)|shaft damage|RSDM
+Drivers Console (DRC)|Wiper faulty|RSDM
+Drivers Console (DRC)|Wiper Blade amage|RSDM
+Drivers Console (DRC)|UOF|RSDM
+Drivers Console (DRC)|Relay faulty|RSDM
+Drivers Console (DRC)|Wiper Motor failure|RSDM
+Drivers Console (DRC)|Master Controller failure|RSDM
+Drivers Console (DRC)|DeadMan Relay faulty|RSDM
+Drivers Console (DRC)|Deadman Relay Wire lose|RSDM
+Drivers Console (DRC)|Door Push Button failure|RSDM
+Drivers Console (DRC)|Magnet Sensor faulty|RSDM
+Drivers Console (DRC)|Magnetic Door out position|RSDM
+Drivers Console (DRC)|Key lock switch damage|RSDM
+Drivers Console (DRC)|Drivers Cab Screw loose|RSDM
+Earthing System (EAR)|Shoe Worn out|RSDM
+Earthing System (EAR)|Others|RSDM
+Earthing System (EAR)|Safety cable cutoff|RSDM
+Earthing System (EAR)|arm plate bended|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|Assemly Leaking|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|Braker trip|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|A/C Gas low|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|UOF|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|A/C Gas high|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|Supply fan faulty|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|Temperature Sensor Faulty|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|VMS - HVAC DNET Communication Lost|RSDM
+Heating, Ventilation and Air Conditioning (HVAC)|HVAC Damper Fault|RSDM
+Intercar General Assembly (ICR)|Gangway Leaking|RSDM
+Intercar General Assembly (ICR)|Others|RSDM
+Intercar General Assembly (ICR)|Gangway damage|RSDM
+Interior (TRM)|Glass Broken|RSDM
+Interior (TRM)|Others|RSDM
+Interior (TRM)|Hand grip broken|RSDM
+Interior (TRM)|Stanchion Broken|RSDM
+Interior (TRM)|Passenger Seat Broken|RSDM
+Low Voltage System (LVS)|Smoke detector faulty|RSDM
+Low Voltage System (LVS)|Power Supply fail|RSDM
+Low Voltage System (LVS)|Fuse blown|RSDM
+Low Voltage System (LVS)|Diode blown|RSDM
+Low Voltage System (LVS)|Ballast faulty|RSDM
+Low Voltage System (LVS)|Passengers Saloon Light faulty|RSDM
+Low Voltage System (LVS)|UOF|RSDM
+Low Voltage System (LVS)|Relay faulty|RSDM
+Low Voltage System (LVS)|110 VDC ground fault|RSDM
+Low Voltage System (LVS)|24 VDC ground fault|RSDM
+Low Voltage System (LVS)|Phase Sequence Relay faulty|RSDM
+Low Voltage System (LVS)|Cable loose|RSDM
+Low Voltage System (LVS)|Deadman relay faulty|RSDM
+Passenger Door System (DRS)|UOF|RSDM
+Passenger Door System (DRS)|Motor Encoder Faulty|RSDM
+Passenger Door System (DRS)|Door Railing Fail|RSDM
+Passenger Door System (DRS)|Door Obstruct (External)|RSDM
+Passenger Door System (DRS)|Teflon wear|RSDM
+Passenger Door System (DRS)|DCU faulty|RSDM
+Passenger Door System (DRS)|Belting Damage|RSDM
+Passenger Door System (DRS)|Spindle Shaft rough/stuck|RSDM
+Passenger Door System (DRS)|Door Obstruct (Internal)|RSDM
+Passenger Door System (DRS)|Door Driving Arm Loose|RSDM
+Passenger Door System (DRS)|Door limit switch stoper out position|RSDM
+Passenger Door System (DRS)|Limit switch out of position|RSDM
+Passenger Door System (DRS)|Fuse Blown|RSDM
+Passenger Door System (DRS)|Right Limit Switch Realign|RSDM
+Passenger Door System (DRS)|Lock Switch Not Activated|RSDM
+Passenger Door System (DRS)|Solenoid Faulty|RSDM
+Passenger Door System (DRS)|Cable loose|RSDM
+Passenger Door System (DRS)|Roller faulty|RSDM
+Passenger Door System (DRS)|Door Locking Pin fail|RSDM
+Passenger Door System (DRS)|Lock pin out position|RSDM
+Passenger Door System (DRS)|Bearing faulty|RSDM
+Passenger Door System (DRS)|Door Drive Assembly Crack|RSDM
+Passenger Door System (DRS)|Door Isolation plate bend|RSDM
+Passenger Door System (DRS)|Door motor enconder faulty|RSDM
+Pneumatic and Brake System (BRS)|BCU faulty|RSDM
+Pneumatic and Brake System (BRS)|Connecter faulty|RSDM
+Pneumatic and Brake System (BRS)|Double check valve broken|RSDM
+Pneumatic and Brake System (BRS)|UOF|RSDM
+Pneumatic and Brake System (BRS)|Hose leaking|RSDM
+Pneumatic and Brake System (BRS)|CMR relay fault|RSDM
+Pneumatic and Brake System (BRS)|Air Compressor faulty|RSDM
+Pneumatic and Brake System (BRS)|Levelling valve faulty|RSDM
+Pneumatic and Brake System (BRS)|Cable Loosen|RSDM
+Pneumatic and Brake System (BRS)|Park Brake Pressure faulty|RSDM
+Pneumatic and Brake System (BRS)|Breaker trip|RSDM
+Pneumatic and Brake System (BRS)|Pressure Switch fail|RSDM
+Pneumatic and Brake System (BRS)|Wire loosen|RSDM
+Pneumatic and Brake System (BRS)|Soft Starter faulty|RSDM
+Pneumatic and Brake System (BRS)|Pipe faulty|RSDM
+Pneumatic and Brake System (BRS)|Park Brake Pressure Switch fail|RSDM
+Pneumatic and Brake System (BRS)|Levelling valve faulty|RSDM
+Pneumatic and Brake System (BRS)|BCU gateway faulty|RSDM
+Pneumatic and Brake System (BRS)|RIO gateway faulty|RSDM
+Pneumatic and Brake System (BRS)|Emergency brake fail|RSDM
+Pneumatic and Brake System (BRS)|Reslot all connector|RSDM
+Pneumatic and Brake System (BRS)|Brakes not released|RSDM
+Pneumatic and Brake System (BRS)|BCU Speed Sensor faulty|RSDM
+Pneumatic and Brake System (BRS)|flexible hose faulty|RSDM
+Pneumatic and Brake System (BRS)|Valve faulty|RSDM
+Pneumatic and Brake System (BRS)|Governor faulty|RSDM
+Pneumatic and Brake System (BRS)|Brake accuator hose faulty|RSDM
+Pneumatic and Brake System (BRS)|EMBR motor faulty|RSDM
+Pneumatic and Brake System (BRS)|BCU RS485 Communication Lost|RSDM
+Pneumatic and Brake System (BRS)|BCU Translator faulty|RSDM
+Primary Power System (PPS)|Surge Arrester Fuse Blown|RSDM
+Primary Power System (PPS)|current collector shoe worn|RSDM
+Primary Power System (PPS)|Intercar fuse blown|RSDM
+Primary Power System (PPS)|current collector shoe worn|RSDM
+Primary Power System (PPS)|750Vdc Main Contactor Defective|RSDM
+Primary Power System (PPS)|UOF|RSDM
+Primary Power System (PPS)|Others|RSDM
+Primary Power System (PPS)|Limit Swicth faulty|RSDM
+Primary Power System (PPS)|Cabinet HV creck|RSDM
+Primary Power System (PPS)|Positive Current Collector Not OK|RSDM
+Primary Power System (PPS)|Negative Current Collector Not OK|RSDM
+Primary Power System (PPS)|Cable damage|RSDM
+Primary Power System (PPS)|Connector damage|RSDM
+Primary Power System (PPS)|Fuse blown|RSDM
+Primary Power System (PPS)|Cable loose|RSDM
+Propulsion System (PRS)|UOF|RSDM
+Propulsion System (PRS)|Cable Loose|RSDM
+Propulsion System (PRS)|GRU unit faulty|RSDM
+Propulsion System (PRS)|Card CTI faulty|RSDM
+Propulsion System (PRS)|Control Net Communication Error|RSDM
+Propulsion System (PRS)|SW Parameter incompatibality|RSDM
+Propulsion System (PRS)|Traction inverter faulty|RSDM
+Propulsion System (PRS)|Overtemp- Traction Motor|RSDM
+Propulsion System (PRS)|Encoder faulty|RSDM
+Propulsion System (PRS)|Cooling System Faulty- Breaker Trip|RSDM
+Propulsion System (PRS)|GRU Catcher Limit Switch Faulty|RSDM
+Propulsion System (PRS)|Power cable Faulty|RSDM
+Propulsion System (PRS)|GRU Catcher hook hinge problem|RSDM
+Propulsion System (PRS)|Overtemp- 2 traction Bypassed|RSDM
+Propulsion System (PRS)|Overtemp-RGB|RSDM
+Propulsion System (PRS)|Overtemp-GRU|RSDM
+Propulsion System (PRS)|Traction Motor Faulty|RSDM
+Rolling Stock Communication (RSC)|Connector Broken|RSDM
+Rolling Stock Communication (RSC)|Program Crash|RSDM
+Rolling Stock Communication (RSC)|PID Damage|RSDM
+Rolling Stock Communication (RSC)|UOF|RSDM
+Rolling Stock Communication (RSC)|MOXA Faulty|RSDM
+Rolling Stock Communication (RSC)|Screen Burn|RSDM
+Rolling Stock Communication (RSC)|Cable Loosen|RSDM
+Rolling Stock Communication (RSC)|HMI Faulty|RSDM
+Vehicle Management System (VMS)|UOF|RSDM
+Vehicle Management System (VMS)|Card Corrupted|RSDM
+Vehicle Management System (VMS)|PAC ChangeOver|RSDM
+Vehicle Management System (VMS)|BNC Cable Loosen|RSDM
+Vehicle Management System (VMS)|Processor program|RSDM
+Vehicle Management System (VMS)|PAC faulty|RSDM
+Vehicle Management System (VMS)|Adapter Module Faulty|RSDM
+Vehicle Management System (VMS)|Power Supply Faulty|RSDM
+Vehicle Management System (VMS)|T-Tap Loosen|RSDM
+Vehicle Management System (VMS)|Panel View Faulty|RSDM
+Vehicle Management System (VMS)|I/O Module Faulty|RSDM
+Vehicle Management System (VMS)|Cable Damage|RSDM
+Rolling Stock Signalling (RSS)|UOF|RSDM
+Rolling Stock Signalling (RSS)|EVC faulty|RSDM
+Rolling Stock Signalling (RSS)|BTM faulty|RSDM
+Rolling Stock Signalling (RSS)|Earth Shoe assembly faulty|RSDM
+Rolling Stock Signalling (RSS)|BTM Control Unit Card faulty|RSDM
+Rolling Stock Signalling (RSS)|Tag ID Faulty|RSDM
+Rolling Stock Signalling (RSS)|Cable loose|RSDM
+Rolling Stock Signalling (RSS)|Antenna faulty|RSDM
+Rolling Stock Signalling (RSS)|Overtemp|RSDM
+Rolling Stock Signalling (RSS)|Cable damage|RSDM
+Rolling Stock Signalling (RSS)|Overshoot|RSDM
+Rolling Stock Signalling (RSS)|BTM TXU/RXU Card faulty|RSDM
+Rolling Stock Signalling (RSS)|Earth unit fail|RSDM
